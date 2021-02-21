@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CVBilly">
+  <DataContextMoniker Name="/CVBillyDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b57e309f-430f-4389-9523-8f8279c92c38" absoluteBounds="0.75, 0.75, 2, 1.0961531575520835">
+      <DataClassMoniker Name="/CVBillyDataContext/CVMail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="643d6776-e93e-488d-9724-a6c1ae22a435" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="57158590-2d26-400a-94a4-4ecc5f674c7c" absoluteBounds="0.75, 2.75, 2, 1.0961531575520835">
+      <DataClassMoniker Name="/CVBillyDataContext/LastID" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cbf91c14-b2eb-4cdb-9831-b593bdc1c6b7" absoluteBounds="0.765, 3.21, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

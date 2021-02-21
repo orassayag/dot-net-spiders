@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Spider", "..\..\..\..\..\..\Works\CV\Spider\", "{F72D75FF-F0EF-403F-BC3C-791B95677111}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Spider"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Works\CV\Spider\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Spider\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Spider"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Works\CV\Spider\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Spider\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64701"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F72D75FF-F0EF-403F-BC3C-791B95677111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72D75FF-F0EF-403F-BC3C-791B95677111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

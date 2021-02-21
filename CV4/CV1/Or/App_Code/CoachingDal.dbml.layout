@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CoachingDal">
+  <DataContextMoniker Name="/CoachingDalDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2e4ebbf6-9a92-463c-9b32-2d8385290b20" absoluteBounds="0.75, 0.75, 2, 1.0961531575520835">
+      <DataClassMoniker Name="/CoachingDalDataContext/LastID" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ba0358e0-24c7-406b-b39f-036f426eabc7" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="727980f1-b5d0-4ba3-b3fb-b0e0af4f0064" absoluteBounds="0.75, 2.75, 2, 1.0961531575520835">
+      <DataClassMoniker Name="/CoachingDalDataContext/Mail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="928050be-885a-4082-86b5-ab2f5d8d340b" absoluteBounds="0.765, 3.21, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

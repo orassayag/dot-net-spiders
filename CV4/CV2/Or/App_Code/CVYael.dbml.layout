@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CVYael">
+  <DataContextMoniker Name="/CVYaelDataContext" />
+  <nestedChildShapes>
+    <classShape Id="02fe1a4d-827c-4739-89bb-b3c654078d8c" absoluteBounds="0.75, 0.75, 2, 1.0961531575520835">
+      <DataClassMoniker Name="/CVYaelDataContext/LastID" />
+      <nestedChildShapes>
+        <elementListCompartment Id="86a65f94-02da-4013-b88d-3f98bf085900" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c9a8ff0a-9eaf-4ab5-9ad8-97e494a425a4" absoluteBounds="0.75, 2.75, 2, 1.0961531575520835">
+      <DataClassMoniker Name="/CVYaelDataContext/Mail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="62490063-636a-40e3-b7e3-7dc9b2736ca7" absoluteBounds="0.765, 3.21, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

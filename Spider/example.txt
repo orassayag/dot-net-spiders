@@ -1,0 +1,399 @@
+<!doctype html><html itemscope itemtype="http://schema.org/WebPage"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1255"><meta itemprop="image" content="/images/google_favicon_128.png"><title>מחפשת קוראת בכף יד - חיפוש ב-Google</title><style>#gb{font:13px/27px Arial,sans-serif;height:30px}#gbz,#gbg{position:absolute;white-space:nowrap;top:0;height:30px;z-index:1000}#gbz{right:0;padding-right:4px}#gbg{left:0;padding-left:5px}#gbs{background:transparent;position:absolute;top:-999px;visibility:hidden;z-index:998}.gbto #gbs{background:#fff}#gbx3,#gbx4{background-color:#2d2d2d;background-image:none;_background-image:none;background-position:0 -138px;background-repeat:repeat-x;border-bottom:1px solid #000;font-size:24px;height:29px;_height:30px;opacity:1;filter:alpha(opacity=100);position:absolute;top:0;width:100%;z-index:990}#gbx3{left:0}#gbx4{right:0}#gbb{position:relative}#gbbw{left:0;right:0;position:absolute;top:30px;width:100%}.gbtcb{position:absolute;visibility:hidden}#gbz .gbtcb{left:0}#gbg .gbtcb{right:0}.gbxx{display:none !important}.gbm{position:absolute;z-index:999;top:-999px;visibility:hidden;text-align:right;border:1px solid #bebebe;background:#fff;-moz-box-shadow:-1px 1px 1px rgba(0,0,0,.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,.2);box-shadow:0 2px 4px rgba(0,0,0,.2)}.gbrtl .gbm{-moz-box-shadow:1px 1px 1px rgba(0,0,0,.2)}.gbto .gbm,.gbto #gbs{top:29px;visibility:visible}#gbz .gbm,#gbz #gbs{right:0}#gbg .gbm,#gbg #gbs{left:0}.gbxms{background-color:#ccc;display:block;position:absolute;z-index:1;top:-1px;right:-2px;left:-2px;bottom:-2px;opacity:.4;-moz-border-radius:3px;filter:progid:DXImageTransform.Microsoft.Blur(pixelradius=5);*opacity:1;*top:-2px;*right:-5px;*left:5px;*bottom:4px;-ms-filter:"progid:DXImageTransform.Microsoft.Blur(pixelradius=5)";opacity:1\0/;top:-4px\0/;right:-6px\0/;left:5px\0/;bottom:4px\0/}.gbma{position:relative;top:-1px;border-style:solid dashed dashed;border-color:transparent;border-top-color:#c0c0c0;display:-moz-inline-box;display:inline-block;font-size:0;height:0;line-height:0;width:0;border-width:3px 3px 0;padding-top:1px;right:4px}#gbztms1,#gbi4m1,#gbi4s,#gbi4t{zoom:1}.gbtc,.gbmc,.gbmcc{display:block;list-style:none;margin:0;padding:0}.gbmc{background:#fff;padding:10px 0;position:relative;z-index:2;zoom:1}.gbt{position:relative;display:-moz-inline-box;display:inline-block;line-height:27px;padding:0;vertical-align:top}.gbt{*display:inline}.gbto{box-shadow:0 2px 4px rgba(0,0,0,.2);-moz-box-shadow:0 2px 4px rgba(0,0,0,.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,.2)}.gbzt,.gbgt{cursor:pointer;display:block;text-decoration:none !important}.gbts{border-left:1px solid transparent;border-right:1px solid transparent;display:block;*display:inline-block;padding:0 5px;position:relative;z-index:1000}.gbts{*display:inline}.gbto .gbts{background:#fff;border-color:#bebebe;color:#36c;padding-bottom:1px;padding-top:2px}.gbz0l .gbts{color:#fff;font-weight:bold}.gbtsa{padding-left:9px}#gbz .gbzt,#gbz .gbgt,#gbg .gbgt{color:#ccc!important}.gbtb2{display:block;border-top:2px solid transparent}.gbto .gbzt .gbtb2,.gbto .gbgt .gbtb2{border-top-width:0}.gbtb .gbts{background:url(//ssl.gstatic.com/gb/images/b_8d5afc09.png);_background:url(//ssl.gstatic.com/gb/images/b8_3615d64d.png);background-position:-27px -22px;border:0;font-size:0;padding:29px 0 0;*padding:27px 0 0;width:1px}.gbzt-hvr,.gbzt:focus,.gbgt-hvr,.gbgt:focus{background-color:#4c4c4c;background-image:none;_background-image:none;background-position:0 -102px;background-repeat:repeat-x;outline:none;text-decoration:none !important}.gbpdjs .gbto .gbm{min-width:99%}.gbz0l .gbtb2{border-top-color:#dd4b39!important}#gbi4s,#gbi4s1{font-weight:bold}#gbg6.gbgt-hvr,#gbg6.gbgt:focus{background-color:transparent;background-image:none}.gbg4a{font-size:0;line-height:0}.gbg4a .gbts{padding:27px 5px 0;*padding:25px 5px 0}.gbto .gbg4a .gbts{padding:29px 5px 1px;*padding:27px 5px 1px}#gbi4i,#gbi4id{right:5px;border:0;height:24px;position:absolute;top:1px;width:24px}.gbto #gbi4i,.gbto #gbi4id{top:3px}.gbi4p{display:block;width:24px}#gbi4id,#gbmpid{background:url(//ssl.gstatic.com/gb/images/b_8d5afc09.png);_background:url(//ssl.gstatic.com/gb/images/b8_3615d64d.png)}#gbi4id{background-position:-29px -54px}#gbmpid{background-position:-58px 0px}#gbmpi,#gbmpid{border:none;display:inline-block;margin-top:10px;height:48px;width:48px}.gbmpiw{display:inline-block;line-height:9px;margin-right:20px;margin-top:10px}#gbmpi,#gbmpid,.gbmpiw{*display:inline}#gbg5{font-size:0}#gbgs5{padding:5px !important}.gbto #gbgs5{padding:7px 5px 6px !important}#gbi5{background:url(//ssl.gstatic.com/gb/images/b_8d5afc09.png);_background:url(//ssl.gstatic.com/gb/images/b8_3615d64d.png);background-position:0 0;display:block;font-size:0;height:17px;width:16px}.gbto #gbi5{background-position:-6px -22px}.gbn .gbmt,.gbn .gbmt:visited,.gbnd .gbmt,.gbnd .gbmt:visited{color:#dd8e27 !important}.gbf .gbmt,.gbf .gbmt:visited{color:#900 !important}.gbmt,.gbml1,.gbmlb,.gbmt:visited,.gbml1:visited,.gbmlb:visited{color:#36c !important;text-decoration:none !important}.gbmt,.gbmt:visited{display:block}.gbml1,.gbmlb,.gbml1:visited,.gbmlb:visited{display:inline-block;margin:0 10px}.gbml1,.gbmlb,.gbml1:visited,.gbmlb:visited{*display:inline}.gbml1,.gbml1:visited{padding:0 10px}.gbml1-hvr,.gbml1:focus{outline:none;text-decoration:underline !important}#gbpm .gbml1{display:inline;margin:0;padding:0;white-space:nowrap}.gbmlb,.gbmlb:visited{line-height:27px}.gbmlb-hvr,.gbmlb:focus{outline:none;text-decoration:underline !important}.gbmlbw{color:#ccc;margin:0 10px}.gbmt{padding:0 20px}.gbmt-hvr,.gbmt:focus{background:#eee;cursor:pointer;outline:0 solid black;text-decoration:none !important}.gbm0l,.gbm0l:visited{color:#000 !important;font-weight:bold}.gbmh{border-top:1px solid #bebebe;font-size:0;margin:10px 0}#gbd4 .gbmc{background:#f5f5f5;padding-top:0}#gbd4 .gbsbic::-webkit-scrollbar-track:vertical{background-color:#f5f5f5;margin-top:2px}#gbmpdv{background:#fff;border-bottom:1px solid #bebebe;-moz-box-shadow:0 2px 4px rgba(0,0,0,.12);-o-box-shadow:0 2px 4px rgba(0,0,0,.12);-webkit-box-shadow:0 2px 4px rgba(0,0,0,.12);box-shadow:0 2px 4px rgba(0,0,0,.12);position:relative;z-index:1}#gbd4 .gbmh{margin:0}.gbmtc{padding:0;margin:0;line-height:27px}.GBMCC:last-child:after,#GBMPAL:last-child:after{content:'\0A\0A';white-space:pre;position:absolute}#gbmps{*zoom:1}#gbd4 .gbpc,#gbmpas .gbmt{line-height:17px}#gbd4 .gbpgs .gbmtc{line-height:27px}#gbmpas .gbmt{padding-bottom:10px;padding-top:10px}#gbmple .gbmt,#gbmpas .gbmt{font-size:15px}#gbd4 .gbmtc{border-bottom:1px solid #bebebe}#gbd4 .gbpc{display:inline-block;margin:16px 0 10px;margin-left:50px;vertical-align:top}#gbd4 .gbpc{*display:inline}.gbpc .gbps,.gbpc .gbps2{display:block;margin:0 20px}#gbmplp.gbps{margin:0 10px}.gbpc .gbps{color:#000;font-weight:bold}.gbpc .gbps2{font-size:13px}.gbpc .gbpd{margin-bottom:5px}.gbpd .gbmt,.gbmpmtd .gbmt{color:#666 !important}.gbmpme,.gbps2{color:#666;display:block;font-size:11px}.gbp0{display:none}.gbp0 .gbps2,.gbmpmta .gbmpme{font-weight:bold}#gbmpp{display:none}#gbd4 .gbmcc{margin-top:5px}.gbpmc{background:#fef9db}.gbpmc .gbmt{padding:10px 20px}#gbpm{*border-collapse:collapse;border-spacing:0;margin:0;white-space:normal}#gbpm .gbmt{border-top:none;color:#000 !important;font:11px Arial,sans-serif}#gbpms{*white-space:nowrap}.gbpms2{font-weight:bold;white-space:nowrap}#gbmpal{*border-collapse:collapse;border-spacing:0;margin:0;white-space:nowrap;width:100%}.gbmpala,.gbmpalb{font:13px Arial,sans-serif;line-height:27px;padding:10px 20px 0;white-space:nowrap}.gbmpala{padding-right:0;text-align:right}.gbmpalb{padding-left:0;text-align:left}#gbmpasb .gbmpmn,#gbmpasb .gbps{color:#000}.gbp0 .gbps,.gbmpmta .gbmpmn{color:#000;display:inline-block;font-weight:bold;padding-left:34px;position:relative}.gbp0 .gbps,.gbmpmta .gbmpmn{*display:inline}.gbmpmtc,.gbp0i{background:url(//ssl.gstatic.com/gb/images/b_8d5afc09.png);_background:url(//ssl.gstatic.com/gb/images/b8_3615d64d.png);background-position:0 -54px;position:absolute;height:21px;width:24px;left:0;top:-3px}.gbqfb{background-color:#4d90fe;background-image:-webkit-gradient(linear,left top,left bottom,from(#4d90fe),to(#4787ed));background-image:-webkit-linear-gradient(top,#4d90fe,#4787ed);background-image:-moz-linear-gradient(top,#4d90fe,#4787ed);background-image:-ms-linear-gradient(top,#4d90fe,#4787ed);background-image:-o-linear-gradient(top,#4d90fe,#4787ed);background-image:linear-gradient(top,#4d90fe,#4787ed);filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#4d90fe',EndColorStr='#4787ed');border:1px solid #3079ed;-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;-moz-user-select:none;-webkit-user-select:none;color:#fff !important;cursor:default !important;display:inline-block;font-weight:bold;height:29px;line-height:29px;min-width:54px;*min-width:70px;text-align:center;text-decoration:none !important;padding:0 8px}.gbqfb{*display:inline}.gbqfb-hvr{border:1px solid #2f5bb7;background-color:#357ae8;background-image:-webkit-gradient(linear,left top,left bottom,from(#4d90fe),to(#357ae8));background-image:-webkit-linear-gradient(top,#4d90fe,#357ae8);background-image:-moz-linear-gradient(top,#4d90fe,#357ae8);background-image:-ms-linear-gradient(top,#4d90fe,#357ae8);background-image:-o-linear-gradient(top,#4d90fe,#357ae8);background-image:linear-gradient(top,#4d90fe,#357ae8);-webkit-box-shadow:0 1px 1px rgba(0,0,0,.1);-moz-box-shadow:0 1px 1px rgba(0,0,0,.1);box-shadow:0 1px 1px rgba(0,0,0,.1)}.gbqfb:focus{-moz-box-shadow:inset 0 0 0 1px #fff;-webkit-box-shadow:inset 0 0 0 1px #fff;box-shadow:inset 0 0 0 1px #fff;outline:none}.gbqfb::-moz-focus-inner{border:0}.gbqfb-hvr:focus{-moz-box-shadow:inset 0 0 0 1px #fff,0 1px 1px rgba(0,0,0,.1);-webkit-box-shadow:inset 0 0 0 1px #fff,0 1px 1px rgba(0,0,0,.1);box-shadow:inset 0 0 0 1px #fff,0 1px 1px rgba(0,0,0,.1)}.gbqfb:active{-moz-box-shadow:inset 0 1px 2px rgba(0,0,0,.3);-webkit-box-shadow:inset 0 1px 2px rgba(0,0,0,.3);box-shadow:inset 0 1px 2px rgba(0,0,0,.3)}.gbiba{margin:8px 20px 10px}#gbmpas{max-height:224px}.gbsb{-webkit-box-sizing:border-box;display:block;position:relative;*zoom:1}.gbsbic{overflow:auto}.gbsbis .gbsbt{-webkit-mask-box-image:-webkit-gradient(linear,left top,right top,color-stop(0,rgba(0,0,0,.1)),color-stop(.5,rgba(0,0,0,.8)),color-stop(1,rgba(0,0,0,.1)));background:-webkit-gradient(linear,left top,left bottom,from(rgba(0,0,0,.2)),to(rgba(0,0,0,0)));background-image:-webkit-linear-gradient(top,rgba(0,0,0,.2),rgba(0,0,0,0));background-image:-moz-linear-gradient(top,rgba(0,0,0,.2),rgba(0,0,0,0));background-image:-ms-linear-gradient(top,rgba(0,0,0,.2),rgba(0,0,0,0));background-image:-o-linear-gradient(top,rgba(0,0,0,.2),rgba(0,0,0,0));background-image:linear-gradient(top,rgba(0,0,0,.2),rgba(0,0,0,0));height:6px;left:0;margin-right:0;opacity:0;position:absolute;top:0;width:100%}.gbsb .gbsbt:after{border-top:1px solid #ebebeb;border-top:1px solid rgba(0,0,0,.3);content:"";display:block;height:0;left:0;position:absolute;top:0;width:100%}.gbsb .gbsbb{-webkit-mask-box-image:-webkit-gradient(linear,left top,right top,color-stop(0,rgba(0,0,0,.1)),color-stop(.5,rgba(0,0,0,.8)),color-stop(1,rgba(0,0,0,.1)));background:-webkit-gradient(linear,left bottom,left top,from(rgba(0,0,0,.2)),to(rgba(0,0,0,0)));background-image:-webkit-linear-gradient(bottom,rgba(0,0,0,.2),rgba(0,0,0,0));background-image:-moz-linear-gradient(bottom,rgba(0,0,0,.2),rgba(0,0,0,0));background-image:-ms-linear-gradient(bottom,rgba(0,0,0,.2),rgba(0,0,0,0));background-image:-o-linear-gradient(bottom,rgba(0,0,0,.2),rgba(0,0,0,0));background-image:linear-gradient(bottom,rgba(0,0,0,.2),rgba(0,0,0,0));bottom:0;height:4px;left:0;margin-right:0;opacity:0;position:absolute;width:100%}.gbsb .gbsbb:after{border-bottom:1px solid #ebebeb;border-color:rgba(0,0,0,.3);bottom:0;content:"";display:block;height:0;left:0;position:absolute;width:100%}</style><style>
+    body,td,div,.p,a{
+      font-family:arial,sans-serif
+    }
+    body {
+      margin:0
+    }
+    #gbar{
+      float:right;
+      height:22px;padding-right:2px;
+      font-size:13px
+    }
+    
+    .gssb_c table{
+      font-size:1em
+    }
+    .gsfi,.gsfs{
+      font-size:17px
+    }
+    
+      .j{
+        width:34em
+      }
+    
+    a:link,.w,.q:active,.q:visited,.tbotu{
+      color:#11c
+    }
+    a.fl,.flc a{
+      color:#4272db;text-decoration:none
+    }
+    
+    a.gl{
+      text-decoration:none
+    }
+    cite, cite a:link{
+      color:#0E774A;
+      font-style:normal
+    }
+    #foot {
+      padding:0 8px;
+    }
+    #foot a{
+      white-space:nowrap
+    }
+    h3{
+      font-size:16px;
+      font-weight:normal;
+      margin:0;
+      padding:0
+    }
+    #res h3{
+      display:inline
+    }
+    .hd{
+      height:1px;
+      position:absolute;
+      top:-1000em
+    }
+    li.g,body,html,table,.std{
+      font-size:13px
+    }
+    li.g{
+      margin-bottom:14px;
+      margin-top:0;
+      zoom:1;
+    }
+    ol li,ul li{
+      list-style:none
+    }
+    h1,ol,ul,li{
+      margin:0;padding:0
+    }
+    #mbEnd li{
+      margin:1em 0
+    }
+    #mbEnd h2{
+      color:#676767;
+      font-family:arial,sans-serif;
+      font-size:11px;
+      font-weight:normal
+    }
+    #center_col{
+      border-right:1px solid #d3e1f9;
+      padding:0 8px
+    }
+    
+      #fll a,#bfl a{
+        margin:0 10px
+      }
+    
+    .f{
+      color:#767676
+    }
+    .grn{
+      color:#393
+    }
+    .ds{
+      border-left:1px solid #e7e7e7;
+      position:relative;
+      height:32px;
+      
+      z-index:100
+    }
+    .e{
+      margin:2px 0px 0.75em
+    }
+    #leftnav a,.slk a{
+      text-decoration:none
+    }
+    #leftnav h2{
+      color: #767676;
+      font-weight: normal;
+      margin:0
+    }
+    #logo{
+      display:block;
+      height:49px;
+      margin-top:12px;
+      margin-right:12px;
+      overflow:hidden;
+      position:relative;
+      width:137px
+    }
+    #logo img{
+      
+      left:0;
+      position:absolute;
+      top:-41px
+    }
+    .lnsec{
+      font-size:13px;
+      border-top:1px solid #c9d7f1;
+      margin-top:5px;
+      padding-top:8px
+    }
+    .lsb,.micon,.csb,.star,.star div{
+      background:url(/images/nav_logo_hp2.png) no-repeat;
+      overflow:hidden
+    }
+    .lst{
+      background:#fff;
+      border:1px solid #ccc;
+      border-bottom:none;
+      color:#000;
+      font:18px arial,sans-serif;
+      
+      float:right;
+      height:26px;
+      margin:0;
+      padding:4px 0 0;
+      padding-right:6px;
+      padding-left:10px;
+      vertical-align:top;
+      width:100%;
+      
+      word-break:break-all
+    }
+    .lst:focus{
+      outline:none
+    }
+    .lst-td{
+      border-bottom:1px solid #999;
+      padding:0
+    }
+    .lst-b{
+      border:1px solid #CCC;
+      border-bottom:none;
+      padding-left:0;
+      height:29px;
+      padding-top:1px
+    }
+    .tia input{
+      border-left:none;
+      padding-left:0
+    }
+    .tia{
+      padding-left:0
+    }
+    .lsbb{
+      background:#eee;
+      border:1px solid #999;
+      border-top-color:#ccc;
+      border-right-color:#ccc;
+      height:30px
+    }
+    .lsb{
+      background-position:bottom;
+      border:none;
+      color:#000;
+      cursor:pointer;
+      font:15px arial,sans-serif;
+      height:30px;
+      margin:0;
+      vertical-align:top
+    }
+    .lsb:active{
+      background:#ccc
+    }
+    .micon {
+      float:right;
+      height:19px;
+      margin-top:2px;
+      margin-left: 6px;
+      width:19px;
+    }
+    #nav{
+      
+        direction:ltr;
+      
+      border-collapse:collapse;
+      margin-top:17px;
+      text-align:right
+    }
+    #nav td{
+      text-align:center;
+    }
+    .nobr{
+      white-space:nowrap
+    }
+    #showmodes .micon{
+      background-position:-150px -114px;
+      height:17px;
+      margin-right:9px;
+      width:17px;
+    }
+    #subform_ctrl{
+      font-size:11px;
+      height:26px;
+      margin:5px 3px 0;
+      margin-right:17px
+    }
+    .ts{
+      border-collapse:collapse
+    }
+    #mn{
+      table-layout:fixed;width:996px
+    }
+    .mitem{
+      font-size:15px;
+      line-height:24px;
+      margin-bottom:2px;
+      padding-right:0
+    }
+    .msel{
+      font-weight:bold;
+      margin:-1px 0 0 0;
+      border:solid #fff;
+      border-width:1px 0
+    }
+    .r{
+      margin:0
+    }
+    #res{
+      padding:4px 8px 0
+    }
+    .s br{
+      display:none
+    }
+    .spon{
+      font-size:11px;
+      font-weight:normal;
+      color:#767676
+    }
+    .mitem,.lnsec{
+      padding-right:8px
+    }
+    #showmodes{
+      font-size:15px;
+      line-height:24px;
+    }
+    #swr{
+      margin-top:4px
+    }
+    #swr li{
+      line-height:1.2;
+      margin-bottom:4px
+    }
+    .csb{
+      display:block;
+      height:40px;
+    }
+    .images_table td{line-height:17px;padding-bottom:16px}
+    .images_table img{border:1px solid #ccc;padding:1px}
+    .taf{
+      padding:1px 0 0
+    }
+    .tam{
+      padding:14px 0 0
+    }
+    .tal{
+      padding:14px 0 1px
+    }
+    #tbd,#abd{
+      display:block;
+      min-height:1px;
+      padding-top:3px
+    }
+    #tbd li{
+      
+      display:inline
+    }
+    .tbfo,.tbt,.tbpd{
+      margin-bottom:8px
+    }
+    #tbd .tbt li{
+      display:block;
+      font-size:13px;
+      line-height:1.2;
+      padding-bottom:3px;
+      padding-right:8px;
+      text-indent:-8px
+    }
+    .tbos,.b{
+      font-weight:bold;
+    }
+    a:hover{
+      text-decoration:underline
+    }
+    #leftnav a:hover {
+      text-decoration:underline;
+    }
+    em{
+      font-weight:bold;
+      font-style:normal
+    }
+    
+    .gac_wd{
+      left:-2px !important;
+      
+      overflow:hidden
+    }
+    
+    .fmg{
+      display:inline-block;
+      margin-top:7px;
+      padding-left:8px;
+      text-align-right;
+      vertical-align:top;
+      width:90px;
+      zoom:1
+    }
+    .star{
+      
+          background-position:0 -110px;
+        
+      height:9px;
+      overflow-hidden;
+      width:50px
+    }
+    .star div{
+      
+          background-position:0 -120px;
+          float:left
+        
+    }
+    
+    .pslires{
+      padding-top:6px;
+      overflow:hidden;
+      width:99.5%
+    }
+    .psliimg{
+      float:right;
+      height:90px;
+      text-align:top;
+      width:90px
+    }
+    .pslimain{
+      margin-right:100px;
+      margin-left:9em
+    }
+    .psliprice{
+      float:left;
+      width:7em
+    }
+    .psliprice b{
+      font-size:medium;
+      font-weight:bold;
+      white-space:nowrap
+    }
+    .psliimg img{
+      border:none
+    }
+    </style><script type="text/javascript">
+      window.google = { y: {} };
+      function g(c){var d="undefined",a="1";if(c&&c.getElementById)if(typeof XMLHttpRequest!=d)a="2";else if(typeof ActiveXObject!=d){var b,e,f="MSXML2.XMLHTTP",h=[f+".6.0",f+".3.0",f,"Microsoft.XMLHTTP"];for(b=0,e;e=h[b++];)try{new ActiveXObject(e);a="2"}catch(i){}}return a};window.maybeRedirectForGBV=function(c,d,a){var b=g(c);if(b!=a)d.href="https://www.google.co.il/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&hl=iw&rls=com.microsoft:en-US:%7Breferrer:source%7D&prmd=imvns&ei=pVuFT7P5NcLX0QXUtdStBw&start=10&sa=N&biw=1440&bih=775&sei=Fl2FT9WvCsrK0QXe5d3YBw&gbv="+b}; maybeRedirectForGBV(document,location,"2");</script><script type="text/javascript">(function(){try{var e=!0,i=!1;var aa=function(a,b,c,d){d=d||{};d._sn=["cfg",b,c].join(".");window.gbar.logger.ml(a,d)};var ba={H:1,J:2,$:3,C:4,T:5,N:6,v:7,w:8,da:9,S:10,M:11,A:12,R:13,z:14,Q:15,P:16,ba:17,F:18,O:19,ca:20,aa:21,D:22,I:23,fa:24,ga:25,ea:26,G:27,k:28,B:29,u:30,Z:31,V:32,W:33,K:34,L:35,Y:36,X:37,U:38};var j=window.gbar=window.gbar||{},l=window.gbar.i=window.gbar.i||{};function _tvn(a,b){var c=parseInt(a,10);return isNaN(c)?b:c}function _tvf(a,b){var c=parseFloat(a);return isNaN(c)?b:c}function _tvv(a){return!!a}function m(a,b,c){(c||j)[a]=b}j.bv={n:_tvn("2",0),r:"r_gc.r_pw.",f:".41.",m:_tvn("1",1)};var o=function(a){return function(){return j.bv.m==a}},ca=o(1),da=o(2);m("sb",ca);m("kn",da);l.a=_tvv;l.b=_tvf;l.c=_tvn; l.i=aa;var p=window.gbar.i.i;var q={},ea={},r=[],fa=function(a,b){r.push([a,b])},ga=function(a,b){q[a]=b},ha=function(a){return a in q},t={},u=function(a,b){t[a]||(t[a]=[]);t[a].push(b)},v=function(a){u("m",a)},w=function(a){var b=document.createElement("script");b.src=a;(document.getElementById("xjsc")||document.body).appendChild(b)},A=function(a){for(var b=0,c;(c=r[b])&&!(c[0]==a);++b);c&&!c[1].l&&!c[1].s&&(c[1].s=e,x(2,a),c[1].url&&w(c[1].url),c[1].libs&&y&&y(c[1].libs))},B=function(a){u("gc",a)},C=null,ia=function(a){C=a}, x=function(a,b,c){if(C){a={t:a,b:b};if(c)for(var d in c)a[d]=c[d];try{C(a)}catch(g){}}};m("mdc",q);m("mdi",ea);m("bnc",r);m("qGC",B);m("qm",v);m("qd",t);m("lb",A);m("mcf",ga);m("bcf",fa);m("aq",u);m("mdd","");m("has",ha);m("trh",ia);m("tev",x);if(l.a("1")){var D=l.a("1"),ja=l.a(""),ka=window.gapi={},F=function(a,b){j.dgl===E&&m("dgl",F);u("gl",function(){j.dgl(a,b)});A("gl")},E=function(a,b){var c=a.split(":");G.l=G.l.concat(c.sort());b&&(G.cm=b,G.o=1,G.p=c);w(G.ms+G.h.split(";")[1].replace(/__features__/g,c.join(",").replace(/\.|-/g,"_")))},la={},ma=function(a){for(var a=a.split(":"),b;(b=a.pop())&&la[b];);return!b},y=function(a){function b(){for(var b=a.split(":"),d=0,g;g=b[d];++d)la[g]= 1;for(b=0;d=r[b];++b)d=d[1],(g=d.libs)&&!d.l&&d.i&&ma(g)&&d.i()}j.dgl(a,b)},G=window.___jsl={};G.h="m;/_/apps-static/_/js/widget/__features__/rt=j/ver=SvSTGk8PZnM.en./sv=1/am=!K2t8zmDaIyaNjPbXTQ/d=1/";G.ms="https://apis.google.com";G.m="";G.l=[];r.push(["gl",{url:"//ssl.gstatic.com/gb/js/abc/glm_2572388ad06f10d8fe6ef9a09f798c5d.js"}]);var na={"export":D};q.gl=na;D&&m("load",F,ka);var oa=!ja&&/^m;/.test(G.h)&&!/\/gapi\/|ms=gapi/.test(G.h)?E:F;m("dgl",oa);m("agl",ma)};var H=function(){},I=function(){},va=function(a){var b=new Image,c=ra;b.onerror=b.onload=b.onabort=function(){try{delete ua[c]}catch(a){}};ua[c]=b;b.src=a;ra=c+1},ua=[],ra=0;m("logger",{il:I,ml:H});var J=window.gbar.logger;var wa=l.b("0.01",1.0E-4),xa=0; function _mlToken(a,b){try{if(1>xa){xa++;var c,d=a,g=b||{},f=encodeURIComponent,h=["//www.google.com/gen_204?atyp=i&zx=",(new Date).getTime(),"&jexpid=",f("30316"),"&srcpg=",f("prop=1"),"&jsr=",Math.round(1/wa),"&ogf=",j.bv.f,"&ogv=",f("1333616344.1334110619"),"&ogd=",f("co.il"),"&ogl=",f("iw")];g._sn&&(g._sn="og."+g._sn);for(var n in g)h.push("&"),h.push(f(n)),h.push("="),h.push(f(g[n]));h.push("&emsg=");h.push(f(d.name+":"+d.message));var k=h.join("");ya(k)&& (k=k.substr(0,2E3));c=k;var s=window.gbar.logger._aem(a,c);va(s)}}catch(z){}}var ya=function(a){return 2E3<=a.length},za=function(a,b){return b};function Aa(a){H=a;m("_itl",ya,J);m("_aem",za,J);m("ml",H,J);a={};q.er=a}l.a("")?Aa(function(a){throw a;}):l.a("1")&&Math.random()<wa&&Aa(_mlToken);var _E="right",L=function(a,b){var c=a.className;K(a,b)||(a.className+=(""!=c?" ":"")+b)},M=function(a,b){var c=a.className,d=RegExp("\\s?\\b"+b+"\\b");c&&c.match(d)&&(a.className=c.replace(d,""))},K=function(a,b){var c=RegExp("\\b"+b+"\\b"),d=a.className;return!(!d||!d.match(c))};m("ca",L);m("cr",M);m("cc",K);var Ba=["gb_71","gb_155"],N;function Ca(a){N=a}function Da(a){var b=N&&!a.href.match(/.*\/accounts\/ClearSID[?]/)&&encodeURIComponent(N());b&&(a.href=a.href.replace(/([?&]continue=)[^&]*/,"$1"+b))}function Ea(a){try{var b=(document.forms[0].q||"").value;b&&(a.href=a.href.replace(/([?&])q=[^&]*|$/,function(a,c){return(c||"&")+"q="+encodeURIComponent(b)}))}catch(c){p(c,"sb","pq")}} var Fa=function(){for(var a=[],b=0,c;c=Ba[b];++b)(c=document.getElementById(c))&&a.push(c);return a},Ga=function(){var a=Fa();return 0<a.length?a[0]:null},Ha=function(){return document.getElementById("gb_70")},O={},P={},Ia={},Q={},T=void 0,Na=function(a,b){try{var c=document.getElementById("gb");L(c,"gbpdjs");U();Ja(document.body)&&L(c,"gbrtl");if(b&&b.getAttribute){var d=b.getAttribute("aria-owns");if(d.length){var g=document.getElementById(d);if(g){var f=b.parentNode;if(T==d)T=void 0,M(f,"gbto"); else{if(T){var h=document.getElementById(T);if(h&&h.getAttribute){var n=h.getAttribute("aria-owner");if(n.length){var k=document.getElementById(n);k&&k.parentNode&&M(k.parentNode,"gbto")}}}Ka(g)&&La(g);T=d;L(f,"gbto")}}}}v(function(){j.tg(a,b,e)});Ma(a)}catch(s){p(s,"sb","tg")}},Oa=function(a){v(function(){j.close(a)})},Ja=function(a){var b,c="direction",d=document.defaultView;d&&d.getComputedStyle?(a=d.getComputedStyle(a,""))&&(b=a[c]):b=a.currentStyle?a.currentStyle[c]:a.style[c];return"rtl"==b}, Qa=function(a,b,c){if(a)try{var d=document.getElementById("gbd5");if(d){var g=d.firstChild,f=g.firstChild,h=document.createElement("li");h.className=b+" gbmtc";h.id=c;a.className="gbmt";h.appendChild(a);if(f.hasChildNodes()){for(var c=[["gbkc"],["gbf","gbe","gbn"],["gbkp"],["gbnd"]],d=0,n=f.childNodes.length,g=i,k=-1,s=0,z;z=c[s];s++){for(var pa=0,R;R=z[pa];pa++){for(;d<n&&K(f.childNodes[d],R);)d++;if(R==b){f.insertBefore(h,f.childNodes[d]||null);g=e;break}}if(g){if(d+1<f.childNodes.length){var qa= f.childNodes[d+1];!K(qa.firstChild,"gbmh")&&!Pa(qa,z)&&(k=d+1)}else if(0<=d-1){var sa=f.childNodes[d-1];!K(sa.firstChild,"gbmh")&&!Pa(sa,z)&&(k=d)}break}0<d&&d+1<n&&d++}if(0<=k){var S=document.createElement("li"),ta=document.createElement("div");S.className="gbmtc";ta.className="gbmt gbmh";S.appendChild(ta);f.insertBefore(S,f.childNodes[k])}j.addHover&&j.addHover(a)}else f.appendChild(h)}}catch(cb){p(cb,"sb","al")}},Pa=function(a,b){for(var c=b.length,d=0;d<c;d++)if(K(a,b[d]))return e;return i},Ra= function(a,b,c){Qa(a,b,c)},Sa=function(a,b){Qa(a,"gbe",b)},Ta=function(){v(function(){j.pcm&&j.pcm()})},Ua=function(){v(function(){j.pca&&j.pca()})},Va=function(a,b,c,d,g,f,h,n,k,s){v(function(){j.paa&&j.paa(a,b,c,d,g,f,h,n,k,s)})},Wa=function(a,b){O[a]||(O[a]=[]);O[a].push(b)},Xa=function(a,b){P[a]||(P[a]=[]);P[a].push(b)},Ya=function(a,b){Ia[a]=b},Za=function(a,b){Q[a]||(Q[a]=[]);Q[a].push(b)},Ma=function(a){a.preventDefault&&a.preventDefault();a.returnValue=i;a.cancelBubble=e},V=null,La=function(a, b){U();if(a){W(a,"פותח&hellip;");X(a,e);var c="undefined"!=typeof b?b:1E4,d=function(){$a(a)};V=window.setTimeout(d,c)}},ab=function(a){U();a&&(X(a,i),W(a,""))},$a=function(a){try{U();var b=a||document.getElementById(T);b&&(W(b,"שירות זה אינו זמין כעת.%1$sנסה שוב מאוחר יותר.","%1$s"),X(b,e))}catch(c){p(c,"sb","sdhe")}},W=function(a,b,c){if(a&&b){var d=Ka(a);if(d){if(c){d.innerHTML="";for(var b=b.split(c),c=0,g;g=b[c];c++){var f=document.createElement("div");f.innerHTML=g;d.appendChild(f)}}else d.innerHTML= b;X(a,e)}}},X=function(a,b){var c=void 0!==b?b:e;c?L(a,"gbmsgo"):M(a,"gbmsgo")},Ka=function(a){for(var b=0,c;c=a.childNodes[b];b++)if(K(c,"gbmsg"))return c},U=function(){V&&window.clearTimeout(V)},bb=function(a){var b="inner"+a,a="offset"+a;return window[b]?window[b]:document.documentElement&&document.documentElement[a]?document.documentElement[a]:0};m("so",Ga);m("sos",Fa);m("si",Ha);m("tg",Na);m("close",Oa);m("addLink",Ra);m("addExtraLink",Sa);m("pcm",Ta);m("pca",Ua);m("paa",Va);m("ddld",La); m("ddrd",ab);m("dderr",$a);m("rtl",Ja);m("bh",O);m("abh",Wa);m("dh",P);m("adh",Xa);m("ch",Q);m("ach",Za);m("eh",Ia);m("aeh",Ya);m("qs",Ea);m("setContinueCb",Ca);m("pc",Da);l.d=Ma;l.j=bb;var db={};q.base=db;r.push(["m",{url:"//ssl.gstatic.com/gb/js/sem_a67f3d2b5a0a9de604027dbaeddeed89.js"}]);var eb=l.c("1",0),fb=/\bgbmt\b/,gb=function(a){try{var b=document.getElementById("gb_"+eb),c=document.getElementById("gb_"+a);b&&M(b,fb.test(b.className)?"gbm0l":"gbz0l");c&&L(c,fb.test(c.className)?"gbm0l":"gbz0l")}catch(d){p(d,"sj","ssp")}eb=a},hb=j.qs,ib=function(a){var b;b=a.href;var c=window.location.href.match(/.*?:\/\/[^\/]*/)[0],c=RegExp("^"+c+"/search\\?");if((b=c.test(b))&&!/(^|\\?|&)ei=/.test(a.href))if((b=window.google)&&b.kEXPI)a.href+="&ei="+b.kEI},jb=function(a){hb(a);ib(a)}; m("slp",gb);m("qs",jb);m("qsi",ib);if(l.a("1")){var kb=l.a("");r.push(["gc",{auto:kb,url:"//ssl.gstatic.com/gb/js/abc/gci_78c17c085d1740ee894d9fec9ece5033.js",libs:"googleapis.client:plusone"}]);var lb={version:"gcm_f33b375e36e8c1fa70957777bf47af4a.js",index:"",lang:"iw"};q.gc=lb;var Y=function(a){window.googleapis&&window.iframes?a&&a():(a&&B(a),A("gc"))};m("lGC",Y);l.a("1")&&m("lPWF",Y)};window.__PVT="";var mb=l.b("0.01",1.0E-4),nb=l.b("0.1",1),ob=i,pb=i;if(l.a("1")){var qb=Math.random();qb<=mb&&(ob=e);qb<=nb&&(pb=e)}var Z=ba; function rb(a,b){var c=mb,d=ob,g;g=34>=a?a<=Z.z?a==Z.v||a==Z.w||a==Z.A?i:e:a>=Z.k&&a<=Z.u?e:i:200<=a?e:i;g&&(c=nb,d=pb);if(d){d=encodeURIComponent;c=["//www.google.com/gen_204?atyp=i&zx=",(new Date).getTime(),"&oge=",a,"&ogex=",d("30316"),"&ogf=",j.bv.f,"&ogp=",d("1"),"&ogsr=",Math.round(1/c),"&ogv=",d("1333616344.1334110619"),"&ogd=",d("co.il"),"&ogl=",d("iw")];if(b){"ogw"in b&&(c.push("&ogw="+b.ogw),delete b.ogw);var f;g=b;var h=[];for(f in g)0!=h.length&& h.push(","),h.push(f),h.push("."),h.push(g[f]);f=h.join("");""!=f&&(c.push("&ogad="),c.push(d(f)))}va(c.join(""))}}I=rb;m("il",I,J);var sb={};q.il=sb;var tb=function(){j.prm&&j.prm()},ub=function(a){u("m",function(){j.spn(a)})},vb=function(a){u("m",function(){j.spp(a)})},wb=function(){u("m",function(){j.spd()})};m("spn",ub);m("spp",vb);m("spd",wb);Wa("gbd4",tb); if(l.a("")){var xb={g:l.a(""),d:l.a(""),e:"",m:"",p:"//ssl.gstatic.com/gb/images/avatar_b96.png",xp:l.a("1"),mg:"%1$s (מואצל)",md:"%1$s (ברירת מחדל)",mh:"224"};q.prf=xb};if(l.a("1")&&l.a("1")){var $=function(a){Y(function(){u("pw",a);A("pw")})};m("lPW",$);r.push(["pw",{url:"//ssl.gstatic.com/gb/js/abc/pwm_9f2309242efa34f253d8a3f7d8abb48c.js"}]);var yb=[],zb=function(a){yb[0]=a},Ab=function(a,b){var c=b||{};c._sn="pw";H(a,c)},Bb={signed:yb,elog:Ab,base:"https://plusone.google.com/u/0",loadTime:(new Date).getTime()};q.pw=Bb;var Cb=function(a,b){for(var c=b.split("."),d=function(){var b=arguments;a(function(){for(var a=j,d=0,f=c.length-1;d<f;++d)a=a[c[d]];a[c[d]].apply(a,b)})},g=j,f=0,h=c.length- 1;f<h;++f)g=g[c[f]]=g[c[f]]||{};return g[c[f]]=d};Cb($,"pw.clk");Cb($,"pw.hvr");m("su",zb,j.pw)};function Db(){function a(){for(var b;(b=f[h++])&&!("m"==b[0]||b[1].auto););b&&(x(2,b[0]),b[1].url&&w(b[1].url),b[1].libs&&y&&y(b[1].libs));h<f.length&&setTimeout(a,0)}function b(){0<g--?setTimeout(b,0):a()}var c=l.a("1"),d=l.a(""),g=3,f=r,h=0,n=window.gbarOnReady;if(n)try{n()}catch(k){p(k,"ml","or")}d?m("ldb",a):c?window.addEventListener?window.addEventListener("load",b,i):window.attachEvent("onload",b):b()}m("rdl",Db);}catch(e){window.gbar&&gbar.logger&&gbar.logger.ml(e,{"_sn":"cfg.init"});}})(); (function(){try{var a=window.gbar;a.mcf("pm",{p:""});}catch(e){window.gbar&&gbar.logger&&gbar.logger.ml(e,{"_sn":"cfg.init"});}})(); (function(){try{window.gbar.rdl();}catch(e){window.gbar&&gbar.logger&&gbar.logger.ml(e,{"_sn":"cfg.init"});}})(); </script></head>
+    <body bgcolor="#ffffff" topmargin="3" marginheight="3" marginwidth="0"
+   dir="rtl"><div id=gb class="gbrtl"><script>window.gbar&&gbar.eli&&gbar.eli()</script><div id=gbw><div id=gbz><span class=gbtcb></span><ol class=gbtc><li class=gbt><a onclick=gbar.logger.il(1,{t:1}); class="gbzt gbz0l gbp1" id=gb_1 href="https://www.google.co.il/webhp?hl=iw&tab=ww"><span class=gbtb2></span><span class=gbts>חיפוש</span></a></li><li class=gbt><a onclick=gbar.qs(this);gbar.logger.il(1,{t:2}); class=gbzt id=gb_2 href="https://www.google.co.il/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&hl=iw&rls=com.microsoft:en-US:%7Breferrer:source%7D&prmd=imvns&biw=1440&bih=775&um=1&ie=UTF-8&tbm=isch&source=og&sa=N&tab=wi"><span class=gbtb2></span><span class=gbts>תמונות</span></a></li><li class=gbt><a onclick=gbar.qs(this);gbar.logger.il(1,{t:8}); class=gbzt id=gb_8 href="http://maps.google.co.il/maps?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&hl=iw&rls=com.microsoft:en-US:%7Breferrer:source%7D&prmd=imvns&biw=1440&bih=775&um=1&ie=UTF-8&sa=N&tab=wl"><span class=gbtb2></span><span class=gbts>מפות</span></a></li><li class=gbt><a onclick=gbar.logger.il(1,{t:5}); class=gbzt id=gb_5 href="http://news.google.co.il/nwshp?hl=iw&tab=wn"><span class=gbtb2></span><span class=gbts>חדשות</span></a></li><li class=gbt><a onclick=gbar.qs(this);gbar.logger.il(1,{t:51}); class=gbzt id=gb_51 href="http://translate.google.co.il/?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&hl=iw&rls=com.microsoft:en-US:%7Breferrer:source%7D&prmd=imvns&biw=1440&bih=775&um=1&ie=UTF-8&sa=N&tab=wT"><span class=gbtb2></span><span class=gbts>תרגם</span></a></li><li class=gbt><a onclick=gbar.qs(this);gbar.logger.il(1,{t:9}); class=gbzt id=gb_9 href="http://scholar.google.co.il/scholar?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&hl=iw&rls=com.microsoft:en-US:%7Breferrer:source%7D&prmd=imvns&biw=1440&bih=775&um=1&ie=UTF-8&sa=N&tab=ws"><span class=gbtb2></span><span class=gbts>Scholar</span></a></li><li class=gbt><a onclick=gbar.logger.il(1,{t:23}); class=gbzt id=gb_23 href="https://mail.google.com/mail/?tab=wm"><span class=gbtb2></span><span class=gbts>Gmail</span></a></li><li class=gbt><a class=gbgt id=gbztm href="http://www.google.co.il/intl/iw/options/" onclick="gbar.tg(event,this)" aria-haspopup=true aria-owns=gbd><span class=gbtb2></span><span id=gbztms class="gbts gbtsa"><span id=gbztms1>עוד</span><span class=gbma></span></span></a><div class=gbm id=gbd aria-owner=gbztm><div class=gbmc><ol class=gbmcc><li class=gbmtc><a onclick=gbar.qs(this);gbar.logger.il(1,{t:36}); class=gbmt id=gb_36 href="http://www.youtube.com/results?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&hl=iw&rls=com.microsoft:en-US:%7Breferrer:source%7D&prmd=imvns&biw=1440&bih=775&um=1&ie=UTF-8&sa=N&tab=w1&gl=IL">YouTube</a></li><li class=gbmtc><a onclick=gbar.logger.il(1,{t:24}); class=gbmt id=gb_24 href="https://www.google.com/calendar?tab=wc">יומן</a></li><li class=gbmtc><a onclick=gbar.logger.il(1,{t:25}); class=gbmt id=gb_25 href="https://docs.google.com/?tab=wo">Docs</a></li><li class=gbmtc><a onclick=gbar.qs(this);gbar.logger.il(1,{t:3}); class=gbmt id=gb_3 href="https://groups.google.co.il/groups?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&hl=iw&rls=com.microsoft:en-US:%7Breferrer:source%7D&prmd=imvns&biw=1440&bih=775&um=1&ie=UTF-8&sa=N&tab=wg">קבוצות</a></li><li class=gbmtc><div class="gbmt gbmh"></div></li><li class=gbmtc><a onclick=gbar.logger.il(1,{t:66}); href="http://www.google.co.il/intl/iw/options/" class=gbmt>ועוד יותר &raquo;</a></li></ol></div></div></li></ol></div><div id=gbg><h2 class=gbxx>Account Options</h2><span class=gbtcb></span><ol class=gbtc><li class=gbt><a target=_top href="https://accounts.google.com/ServiceLogin?hl=iw&continue=https://www.google.co.il/search%3Fq%3D%25D7%259E%25D7%2597%25D7%25A4%25D7%25A9%25D7%25AA%2B%25D7%25A7%25D7%2595%25D7%25A8%25D7%2590%25D7%25AA%2B%25D7%2591%25D7%259B%25D7%25A3%2B%25D7%2599%25D7%2593%26hl%3Diw%26rls%3Dcom.microsoft:en-US:%257Breferrer:source%257D%26prmd%3Dimvns%26ei%3DpVuFT7P5NcLX0QXUtdStBw%26start%3D10%26sa%3DN%26biw%3D1440%26bih%3D775" onclick="gbar.logger.il(9,{l:'i'})" id=gb_70 class=gbgt><span class=gbtb2></span><span id=gbgs4 class=gbts><span id=gbi4s1>היכנס</span></span></a></li><li class="gbt gbtb"><span class=gbts></span></li><li class=gbt><a class=gbgt id=gbg5 href="http://www.google.co.il/preferences?hl=iw" title="אפשרויות" onclick="gbar.tg(event,this)" aria-haspopup=true aria-owns=gbd5><span class=gbtb2></span><span id=gbgs5 class=gbts><span id=gbi5></span></span></a><div class=gbm id=gbd5 aria-owner=gbg5><div class=gbmc><ol id=gbom class=gbmcc><li class="gbkc gbmtc"><a  class=gbmt href="/preferences?hl=iw">הגדרות חיפוש</a></li><li class=gbmtc><div class="gbmt gbmh"></div></li><li class="gbkp gbmtc"><a class=gbmt href="http://www.google.co.il/history/optout?hl=iw">היסטוריית אינטרנט</a></li></ol></div></div></li></ol></div></div><div id=gbx3></div><div id=gbx4></div><script>window.gbar&&gbar.elp&&gbar.elp()</script></div><br clear="all"><table border="0" cellpadding="0" cellspacing="0" id="mn" style="position:relative"><tr><td rowspan="2" valign="top" width="157"><h1><a href="/webhp?hl=iw" id="logo" title="Go to Google Home"><img src="/images/nav_logo_hp2.png" alt="" height="222" style="border:0" width="167"></a></h1></td><td valign="top" style="padding-right:9px" width="559"><form name="gs" id="tsf" method="GET" action="/search" style="display:block;margin:0;background:none"><table border="0" cellpadding="0" cellspacing="0" id="sbhost" style="border-bottom:1px solid #e7e7e7;margin-top:18px;position:relative"><tr><td class="lst-td tia" width="100%" valign="bottom" style="
+                      ;_padding-right:7px
+                    "><div style="position:relative;zoom:1"><input autocomplete="off" class="lst" type="text" name="q" maxlength="2048" title="חיפוש" value="מחפשת קוראת בכף יד"></div></td><td class="lst-td" style="padding-left:0"><div class="lst-b" style="border-right:none;border-left:none;              padding-left:6px;padding-right:12px"><img alt="" height="23" style="padding-top:2px" width="27" src="/textinputassistant/tia.png" onclick="var s=document.createElement('script');s.src='/textinputassistant/1/iw_tia.js';(document.getElementById('xjsc')||document.body).appendChild(s)"></div></td><td><div class="ds"><div class="lsbb"><input type="submit" name="btnG" class="lsb" value="חיפוש"></div></div></td></tr></table><input type="hidden" name="hl" value="iw"><input type="hidden" name="rls" value="com.microsoft:en-US:{referrer:source}"><input type="hidden" name="prmd" value="imvns"><input type="hidden" name="ei" value="pVuFT7P5NcLX0QXUtdStBw"><input type="hidden" name="sa" value="N"><input type="hidden" name="biw" value="1440"><input type="hidden" name="bih" value="775"></form></td><td style="padding-right:5px" width="259"></td></tr><tr><td width="100%"><div id="subform_ctrl"><div style="float:left"><a class="fl" href="/advanced_search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns">חיפוש מתקדם</a></div><div>דף 2 מתוך כ-20,800 תוצאות</div></div></td><td></td></tr><tr><td valign="top" id="leftnav" style="padding:4px"><div id="modeselector" style="padding-bottom:4px"><ul><li class="mitem msel"><span class="micon" style="
+          background-position:-20px -132px
+        "></span>הכל</li><li class="mitem"><a href="/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns&amp;source=lnms&amp;tbm=isch&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;sa=X&amp;oi=mode_link&amp;ct=mode&amp;cd=2&amp;ved=0CAYQ_AUoATgK" class="q"><span class="micon" style="
+          background-position:-40px -132px
+        "></span>תמונות</a></li><li class="mitem"><a href="/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns&amp;source=lnms&amp;tbm=vid&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;sa=X&amp;oi=mode_link&amp;ct=mode&amp;cd=3&amp;ved=0CAcQ_AUoAjgK" class="q"><span class="micon" style="
+          background-position:-80px -132px
+        "></span>סרטונים</a></li><li class="mitem"><a href="/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns&amp;source=lnms&amp;tbm=nws&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;sa=X&amp;oi=mode_link&amp;ct=mode&amp;cd=4&amp;ved=0CAgQ_AUoAzgK" class="q"><span class="micon" style="
+          background-position:-120px -132px
+        "></span>חדשות</a></li></ul><a id="showmodes" class="q" href="/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft%3Aen-US%3A%7Breferrer%3Asource%7D&amp;biw=1440&amp;bih=775&amp;prmdo=1&amp;sa=X"><span class="micon"></span><span class="msm">עוד</span></a></div><div class="lnsec"><h2 class="hd">Search Options</h2><ul id="tbd" class="med"><li><ul class="tbt"><li class="tbos">באינטרנט</li><li class="tbou"><a href="/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns&amp;source=lnt&amp;tbs=lr:lang_1iw&amp;lr=lang_iw&amp;sa=X&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;ved=0CA4QpwUoATgK" class="q">דפים הכתובים בעברית</a></li><li class="tbou"><a href="/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns&amp;source=lnt&amp;tbs=ctr:countryIL&amp;cr=countryIL&amp;sa=X&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;ved=0CBAQpwUoAjgK" class="q">דפים מישראל</a></li></ul></li><li><ul class="tbt"></ul></li><li><ul class="tbt"></ul></li></ul><a href="/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;start=10&amp;hl=iw&amp;sa=N&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns&amp;tbo=1" class="q" style="display:block;margin-bottom:16px">עוד כלי חיפוש</a></div></td><td valign="top"><div id="center_col"><div id="res"><div id="ires"><ol><li class="g"><h3 class="r"><a href="/url?q=http://he.wikipedia.org/wiki/%25D7%25A7%25D7%25A8%25D7%2599%25D7%2590%25D7%2594_%25D7%2591%25D7%259B%25D7%25A3_%25D7%2594%25D7%2599%25D7%2593&amp;sa=U&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;ved=0CBIQFjAAOAo&amp;usg=AFQjCNEAd8UKIJNOJ0JVxzr2GmXqhl5syA"><b>קריאה בכף היד</b> – ויקיפדיה</a></h3><div class="s"><b>קריאה בכף היד</b> או כירולוגיה היא שיטת נפוצה בתרבויות שונות המתיימרת לגלות פרטים על <br>  אופיו או עתידו של אדם, על-פי התעמקות במאפייני <b>כף</b> ידו. לפי שיטה זו, מחולקת <b>כף היד</b> <br>  לאזורים <b>...</b><br><div><cite>he.wikipedia.org/wiki/<b>קריאה</b>_<b>בכף</b>_<b>היד</b></cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=iw&amp;rls=com.microsoft%3Aen-US%3A%7Breferrer%3Asource%7D&amp;biw=1440&amp;bih=775&amp;q=cache:7aLwettybYwJ:http://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%99%D7%90%D7%94_%D7%91%D7%9B%D7%A3_%D7%94%D7%99%D7%93+%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;ct=clnk">עותק שמור</a> - <a href="/search?hl=iw&amp;rls=com.microsoft%3Aen-US%3A%7Breferrer%3Asource%7D&amp;biw=1440&amp;bih=775&amp;tbo=1&amp;q=related:http://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%99%D7%90%D7%94_%D7%91%D7%9B%D7%A3_%D7%94%D7%99%D7%93+%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;sa=X">דפים דומים</a></span></div></div></li><li class="g"><h3 class="r"><a href="/url?q=http://www.planetnana.co.il/galhen/cafyad.html&amp;sa=U&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;ved=0CBUQFjABOAo&amp;usg=AFQjCNHud8K6Ks-N3K78n3m50HfLlGfCrA">כירולוגיה - <b>קריאה בכף יד</b></a></h3><div class="s">כירולוגיה - <b>קריאה בכף יד</b>. :הכירולוגיה מחולקת לשני חלקים .כירונומיה - מדע העוסק בחקר צורת <br>  <b>כף היד</b> והאצבעות .כרומנטיקה - מדע העוסק בחקר קווי <b>כף היד</b>. בקריאה <b>בכף יד</b> ניתן לקרוא <b>...</b><br><div><cite><span dir="ltr">www.planetnana.co.il/galhen/cafyad.html</span>‏</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=iw&amp;rls=com.microsoft%3Aen-US%3A%7Breferrer%3Asource%7D&amp;biw=1440&amp;bih=775&amp;q=cache:NSWO3AB1ZmAJ:http://www.planetnana.co.il/galhen/cafyad.html+%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;ct=clnk">עותק שמור</a> - <a href="/search?hl=iw&amp;rls=com.microsoft%3Aen-US%3A%7Breferrer%3Asource%7D&amp;biw=1440&amp;bih=775&amp;tbo=1&amp;q=related:http://www.planetnana.co.il/galhen/cafyad.html+%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;sa=X">דפים דומים</a></span></div></div></li><li class="g"><h3 class="r"><a href="/url?q=http://www.allabout.co.il/articlePage.aspx%3FAid%3D183%26AcatID%3D191&amp;sa=U&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;ved=0CBgQFjACOAo&amp;usg=AFQjCNHkhrrT66ej4VlgZMTBXOV6becnBQ"><b>קריאה בכף היד</b> -אצבע שבתאי</a></h3><div class="s">אצבע שבתאי - האצבע הארוכה ביותר ביד, נמצאת ליד אצבע יופיטר לפי ניתוח <b>קריאה בכף היד</b>. <br>  <b>...</b> כמו כל <b>קוראת כף יד</b> גם אני <b>מחפשת</b> תמיד את החריגים, את אלו שיש להם אצבעות יוצאות <b>...</b><br><div><cite><span dir="ltr">www.allabout.co.il/articlePage.aspx?Aid=183&amp;AcatID=191</span>‏</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=iw&amp;rls=com.microsoft%3Aen-US%3A%7Breferrer%3Asource%7D&amp;biw=1440&amp;bih=775&amp;q=cache:HMPIK5M3xuQJ:http://www.allabout.co.il/articlePage.aspx?Aid=183&amp;AcatID=191+%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;ct=clnk">עותק שמור</a> - <a href="/search?hl=iw&amp;rls=com.microsoft%3Aen-US%3A%7Breferrer%3Asource%7D&amp;biw=1440&amp;bih=775&amp;tbo=1&amp;q=related:http://www.allabout.co.il/articlePage.aspx?Aid=183&amp;AcatID=191+%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;sa=X">דפים דומים</a></span></div></div></li><li class="g"><h3 class="r"><a href="/url?q=http://www.beofen-tv.co.il/cgi-bin/chiq.pl%3F%25EE%25E7%25F4%25F9%25FA_%25EE%25EB%25F9%25F4%25E4_%25E8%25E5%25E1%25E4&amp;sa=U&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;ved=0CB4QFjADOAo&amp;usg=AFQjCNHw0uL3t9iB-DUnl0onZwvP4_ToWA"><b>מחפשת</b> מכשפה טובה - באופן טבעי</a></h3><div class="s">קישור | העבר | מחק יערת_דבש‏ (24.04.2005 19:57): אני <b>מחפשת</b> &quot;מכשפה&quot;- <b>קוראת</b> בקפה, <br>  קלפים, נומרולוגיה, <b>כף היד</b> או כל שיטה אחרת. מישהי עם אינטואיציות חזקות, חכמה ומנוסה.<br><div><cite><span dir="ltr">www.beofen-tv.co.il/cgi-bin/chiq.pl?%EE%E7%F4%F9%FA...</span>‏</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=iw&amp;rls=com.microsoft%3Aen-US%3A%7Breferrer%3Asource%7D&amp;biw=1440&amp;bih=775&amp;q=cache:TtNbwNqGuNkJ:http://www.beofen-tv.co.il/cgi-bin/chiq.pl?%EE%E7%F4%F9%FA_%EE%EB%F9%F4%E4_%E8%E5%E1%E4+%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;ct=clnk">עותק שמור</a> - <a href="/search?hl=iw&amp;rls=com.microsoft%3Aen-US%3A%7Breferrer%3Asource%7D&amp;biw=1440&amp;bih=775&amp;tbo=1&amp;q=related:http://www.beofen-tv.co.il/cgi-bin/chiq.pl?%EE%E7%F4%F9%FA_%EE%EB%F9%F4%E4_%E8%E5%E1%E4+%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;sa=X">דפים דומים</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://books.google.co.il/books?id=YhlAm9lTonEC&amp;pg=PT11&amp;lpg=PT11&amp;dq=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;source=bl&amp;ots=AJUGLWvj5Y&amp;sig=hvHIK0aKFUqsQxaAT7EjBFK7brg&amp;hl=iw">חכמת כף היד - <span dir="ltr">תוצאות Google Books</span>‏</a></h3><div><span class="f"><a href="/search?hl=iw&amp;sa=N&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;tbm=bks&amp;q=inauthor:%22%D7%90%D7%A8%D7%A0%D7%95%D7%9F+%D7%90%D7%93%D7%A8%22&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;ved=0CCIQ9Ag4Cg" class="fl">ארנון אדר</a> - 2001 - 61 דפים</span></div><div class="s"><b>יד</b> ימין ויד שמאל <b>קורא</b> סוב <b>בכף היד</b> יקרא בשתי הידיים. הקריאה תעלה בפניו את סוג האדם <br>  שהנך כעת, מאיזה מקום בחיים הגעת וכיצד התפתח אופ״ך. כאשר <b>קורא בכף היד מחפש</b> <br>  השפעות <b>...</b></div><cite><span dir="ltr">books.google.co.il/books?id=YhlAm9lTonEC</span>‏</cite></li><li class="g"><h3 class="r"><a href="/url?q=http://mysticskarmiel.com/&amp;sa=U&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;ved=0CCQQFjAFOAo&amp;usg=AFQjCNFTN0d5E6LaMR0N5Cid8GTrz96ECQ">מיסטיקה כרמיאל - אורנה מיימון מיסטיקנית</a></h3><div class="s">כשמישהו <b>מחפש</b> עצה בנושא מיסטיקה בכרמיאל הוא יודע שאורנה היא האדם הנכון לפנות אליו. <br>  אורנה <b>קוראת בכף יד</b>, מנתחת בעזרת נומרולוגיה, פותחת בקלפי טארוט ומטהרת אנשים מבעיות <b>...</b><br><div><cite><span dir="ltr">mysticskarmiel.com/</span>‏</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=iw&amp;rls=com.microsoft%3Aen-US%3A%7Breferrer%3Asource%7D&amp;biw=1440&amp;bih=775&amp;q=cache:NHzn-0zNNJEJ:http://mysticskarmiel.com/+%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;ct=clnk">עותק שמור</a> - <a href="/search?hl=iw&amp;rls=com.microsoft%3Aen-US%3A%7Breferrer%3Asource%7D&amp;biw=1440&amp;bih=775&amp;tbo=1&amp;q=related:http://mysticskarmiel.com/+%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;sa=X">דפים דומים</a></span></div></div></li><li class="g"><h3 class="r"><a href="/url?q=http://www.alternativli.co.il/hand_rep.htm&amp;sa=U&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;ved=0CCYQFjAGOAo&amp;usg=AFQjCNHg7VZ6gaim2dRvYdq-UjKGtQo8xw">כירולוגיה- <b>קריאה בכף היד</b> וחיזוי העתיד על פי תורת <b>כף היד</b></a></h3><div class="s">כירולוגיה- <b>קריאה בכף היד</b> וחיזוי העתיד על פי תורת <b>כף היד</b>. <b>...</b> החלטותיו גם אם הם הצליחו או <br>  לא הוא אדם רציני שיצליח בכל כיוון שהוא בעצם לא <b>מחפש</b> אשמים &quot;בגלל ההורים&quot;, האחים וכו&#39;.<br><div><cite><span dir="ltr">www.alternativli.co.il/hand_rep.htm</span>‏</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=iw&amp;rls=com.microsoft%3Aen-US%3A%7Breferrer%3Asource%7D&amp;biw=1440&amp;bih=775&amp;q=cache:bAwxc7rmdwQJ:http://www.alternativli.co.il/hand_rep.htm+%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;ct=clnk">עותק שמור</a> - <a href="/search?hl=iw&amp;rls=com.microsoft%3Aen-US%3A%7Breferrer%3Asource%7D&amp;biw=1440&amp;bih=775&amp;tbo=1&amp;q=related:http://www.alternativli.co.il/hand_rep.htm+%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;sa=X">דפים דומים</a></span></div></div></li><li class="g"><h3 class="r"><a href="/url?q=http://sc.tapuz.co.il/shirshurCommuna-17455-13344748.htm&amp;sa=U&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;ved=0CCkQFjAHOAo&amp;usg=AFQjCNHY215TC24fKBrT6hl0Q20LJPcMYQ"><b>קריאה בכף היד</b>- כירולוגיה</a></h3><div class="s"><b>קריאה בכף היד</b>- כירולוגיה <b>קריאה בכף היד</b> או כירולוגיה הינה שיטת אבחון עתיקה מאוד בה <b>.....</b> <br>  <b>כף היד</b> הרכה מספרת לנו על אדם שאוהב את תענוגות בחיים, <b>מחפש</b> נוחיות, ואל תבלבלו לו <b>...</b><br><div><cite><span dir="ltr">sc.tapuz.co.il/shirshurCommuna-17455-13344748.htm</span>‏</cite><span class="flc"> - <a href="/search?hl=iw&amp;rls=com.microsoft%3Aen-US%3A%7Breferrer%3Asource%7D&amp;biw=1440&amp;bih=775&amp;tbo=1&amp;q=related:http://sc.tapuz.co.il/shirshurCommuna-17455-13344748.htm+%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;sa=X">דפים דומים</a></span></div></div></li><li class="g"><h3 class="r"><a href="/url?q=http://www.stips.co.il/singleask.asp%3Fstipid%3D66320&amp;sa=U&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;ved=0CCsQFjAIOAo&amp;usg=AFQjCNEAjnE1w5kuaEfN1sgC-W_p85WKnA">פתיחה בקלפים וקריאה <b>בכף יד</b> - איפה אני יכולה למצוא פותחת בקלפים? או</a></h3><div class="s">2 מרץ 2011 <b>...</b> או <b>קוראת בכף יד</b>? תשובות <b>...</b> תגיות: <b>קריאה בכף היד</b>,‏ קלפים,‏ מיסטיקה <b>...</b> אני גרה באזור <br>  המרכז ואני <b>מחפשת</b> משהו הכי זול שיש אין לי כל כך תקציב כמה שיותר זול <b>...</b><br><div><cite><span dir="ltr">www.stips.co.il/singleask.asp?stipid=66320</span>‏</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=iw&amp;rls=com.microsoft%3Aen-US%3A%7Breferrer%3Asource%7D&amp;biw=1440&amp;bih=775&amp;q=cache:9j61GnV6R9QJ:http://www.stips.co.il/singleask.asp?stipid=66320+%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;ct=clnk">עותק שמור</a> - <a href="/search?hl=iw&amp;rls=com.microsoft%3Aen-US%3A%7Breferrer%3Asource%7D&amp;biw=1440&amp;bih=775&amp;tbo=1&amp;q=related:http://www.stips.co.il/singleask.asp?stipid=66320+%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;sa=X">דפים דומים</a></span></div></div></li><li class="g"><h3 class="r"><a href="/url?q=http://www.chirology101.co.il/contactUs.asp&amp;sa=U&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;ved=0CC0QFjAJOAo&amp;usg=AFQjCNH5dsFHfLZtdyynN3VccrGgnnzATw"><b>קריאה בכף יד</b> - יצירת קשר</a></h3><div class="s">מקצוע <b>קורא בכף יד</b> או <b>קוראת בכף יד</b>, משמש כסוג של יועץ או מכווין, שתפקידו לעדכן את <br>  מטופליו על <b>...</b> אם אתה <b>מחפש</b> מפעיל מהאתר ניתן לפנות אליו ישירות מהעמוד שלו כאן באתר.<br><div><cite><span dir="ltr">www.chirology101.co.il/contactUs.asp</span>‏</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=iw&amp;rls=com.microsoft%3Aen-US%3A%7Breferrer%3Asource%7D&amp;biw=1440&amp;bih=775&amp;q=cache:2x0myw5gxXcJ:http://www.chirology101.co.il/contactUs.asp+%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;ct=clnk">עותק שמור</a> - <a href="/search?hl=iw&amp;rls=com.microsoft%3Aen-US%3A%7Breferrer%3Asource%7D&amp;biw=1440&amp;bih=775&amp;tbo=1&amp;q=related:http://www.chirology101.co.il/contactUs.asp+%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;sa=X">דפים דומים</a></span></div></div></li></ol></div></div></div><div id="foot"><table align="center" border="0" cellpadding="0" cellspacing="0" id="nav"><tr valign="top"><td class="b" align="left"><a href="/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;start=0&amp;sa=N"><span class="csb ch" style="background-position:0 0;float:right;width:53px"></span><span style="display:block;margin-right:35px;clear:right">הקודם</span></a></td><td><a href="/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;start=0&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-74px 0;width:20px"></span>1</a></td><td><span class="csb ch" style="background-position:-53px 0;width:20px"></span><b>2</b></td><td><a href="/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;start=20&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-74px 0;width:20px"></span>3</a></td><td><a href="/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;start=30&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-74px 0;width:20px"></span>4</a></td><td><a href="/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;start=40&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-74px 0;width:20px"></span>5</a></td><td><a href="/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;start=50&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-74px 0;width:20px"></span>6</a></td><td><a href="/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;start=60&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-74px 0;width:20px"></span>7</a></td><td><a href="/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;start=70&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-74px 0;width:20px"></span>8</a></td><td><a href="/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;start=80&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-74px 0;width:20px"></span>9</a></td><td><a href="/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;start=90&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-74px 0;width:20px"></span>10</a></td><td><a href="/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;start=100&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-74px 0;width:20px"></span>11</a></td><td class="b" style="text-align:left"><a href="/search?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns&amp;ei=Fl2FT9WvCsrK0QXe5d3YBw&amp;start=20&amp;sa=N" style="text-align:left"><span class="csb ch" style="background-position:-96px 0;width:71px"></span><span style="display:block;margin-left:53px">הבא</span></a></td></tr></table><p id="bfl" class="flc" style="margin:19px 0 0;text-align:center"><a href="/support/websearch/bin/answer.py?answer=134479&amp;hl=iw">חפש במרכז העזרה</a> <a href="/quality_form?q=%D7%9E%D7%97%D7%A4%D7%A9%D7%AA+%D7%A7%D7%95%D7%A8%D7%90%D7%AA+%D7%91%D7%9B%D7%A3+%D7%99%D7%93&amp;hl=iw&amp;rls=com.microsoft:en-US:%7Breferrer:source%7D&amp;biw=1440&amp;bih=775&amp;ie=UTF-8&amp;prmd=imvns">שלח לנו משוב</a></p><div id="fll" class="flc" style="margin:19px auto 19px auto;text-align:center"><a href="/">Google דף בית </a> <a href="
+         /intl/iw/ads/"> פרסום ב-Google</a> <a href="/intl/iw/policies/">פרטיות</a> <a href="/intl/iw/about.html">הכל אודות Google‏</a></div></div></td><td valign="top"></td></tr></table><script src="/extern_js/f/CgJpdxICaWwgJCswWjgALCswDjgALCswCjgAmgICaGUsKzAYOAAsgAJQkAJy/ADD_TxO4qhk.js"></script><script type="text/javascript">google.ac.c({"client":"serp","dh":true,"ds":"","exp":"frgbld","fl":true,"host":"google.co.il","jsonp":true,"msgs":{"lcky":"יותר מזל משכל","lml":"למידע נוסף","psrc":"חיפוש זה הוסר מ\u003Ca href=\"/history\"\u003Eהיסטוריית האינטרנט\u003C/a\u003E שלך","psrl":"הסר","srch":"חיפוש ב-Google"},"ovr":{"ms":1,"pf":1,"sw":1},"pq":"מחפשת קוראת בכף יד","scd":10,"sce":5})</script></body></html>
