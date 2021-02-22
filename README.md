@@ -1,4 +1,4 @@
-# Server
+# .NET Spiders
 
 Built in the years 2012-2016. Spiders (crawlers) to fetch email addresses from different sources, API's, crawling web sites, etc.
 
@@ -8,7 +8,7 @@ Clone the project to your computer.
 
 ### Prerequisites
 
-You'll need to install .Net and SQL Stored Procedure (Recommended to work with SQL management studio).
+You'll need to install .Net and SQL Stored Procedure (Recommended to work with SQL Management Studio).
 
 ## Built With
 
