@@ -110,8 +110,8 @@ public partial class _Default1 : Page
         int count = 0;
 
         Regex regx = new Regex("http://([\\w+?\\.\\w+])+([a-zA-Z0-9\\~\\!\\@\\#\\$\\%\\^\\&amp;\\*\\(\\)_\\-\\=\\+\\\\\\/\\?\\.\\:\\;\\'\\,]*)?", RegexOptions.IgnoreCase);
-        MatchCollection mactches = regx.Matches(g);
-        foreach (Match match in mactches)
+        MatchCollection matches = regx.Matches(g);
+        foreach (Match match in matches)
         {
             string q = match.Value.ToLower();
             if (q.Contains("google") || q.Contains("schema.org"))

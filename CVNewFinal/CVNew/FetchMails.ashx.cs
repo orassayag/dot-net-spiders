@@ -229,8 +229,8 @@ namespace CVNew
                 return false;
             }
 
-            string[] spliter = mail.Split('@');
-            foreach (string m in spliter)
+            string[] splitter = mail.Split('@');
+            foreach (string m in splitter)
             {
                 if (!string.IsNullOrEmpty(m))
                 {

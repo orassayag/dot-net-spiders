@@ -31,8 +31,8 @@ public partial class Default2 : System.Web.UI.Page
             }
         }
         catch (Exception e)
-        { 
-            string df = e.Message; 
+        {
+            string df = e.Message;
         }
         finally
         {
@@ -107,7 +107,7 @@ public partial class Default2 : System.Web.UI.Page
 
     public void FindPosition(string html)
     {
-        int counterd = 0;
+        int counter = 0;
         StreamWriter writer = new StreamWriter(@"C:\Users\Or\Desktop\Spider\spider.txt", true);
 
         //string lookup = @"(http|https)://([\w-]+\.)+[\w-]+(/[\w- ./?%&=]*)?";
@@ -139,7 +139,7 @@ public partial class Default2 : System.Web.UI.Page
                             mainDb.SubmitChanges();
 
                             writer.Write(m.Value + ", ");
-                            counterd++;
+                            counter++;
                         }
                     }
                 }
@@ -159,13 +159,13 @@ public partial class Default2 : System.Web.UI.Page
         {
             writer.Close();
         }
-        counter.Text = counterd.ToString();
+        counter.Text = counter.ToString();
     }
 
     public void submit_Click(object sender, EventArgs e)
     {
-        string[] lista = new string[] 
-        { 
+        string[] lista = new string[]
+        {
             "דרושה מזכירה", "דרוש/ה מזכיר/ה", "דרוש מנהל קשרי לקוחות",
             "דרושה אשת שיווק ומכירות", "דרושה אשת מכירות", "דרוש איש מכירות",
             "דרושה מנהלת מחלקת מכירות", "דרוש מנהל מחלקת מכירות", "דרושה מנהלת שיווקת ומכירות",

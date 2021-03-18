@@ -66,9 +66,9 @@ public class DbUtilsDal
     /// </summary>
     /// <param name="connection">SqlConnection to connect to</param>
     /// <param name="procedureName">Sql stored procedure name</param>
-    /// <param name="parametersNames">An array of paraneter names to pass to the SqlCommand object</param>
-    /// <param name="parametersTypes">An array of paraneter types to pass to the SqlCommand object</param>
-    /// <param name="parametersValues">An array of paraneter values to pass to the SqlCommand object</param>
+    /// <param name="parametersNames">An array of parameter names to pass to the SqlCommand object</param>
+    /// <param name="parametersTypes">An array of parameter types to pass to the SqlCommand object</param>
+    /// <param name="parametersValues">An array of parameter values to pass to the SqlCommand object</param>
     /// <returns></returns>
     public static SqlDataReader ExecuteReader(SqlConnection connection, string procedureName, string[] parametersNames, SqlDbType[] parametersTypes, object[] parametersValues)
     {
@@ -105,9 +105,9 @@ public class DbUtilsDal
     /// </summary>
     /// <param name="connection">SqlConnection to connect to</param>
     /// <param name="procedureName">Sql stored procedure name</param>
-    /// <param name="parametersNames">An array of paraneter names to pass to the SqlCommand object</param>
-    /// <param name="parametersTypes">An array of paraneter types to pass to the SqlCommand object</param>
-    /// <param name="parametersValues">An array of paraneter values to pass to the SqlCommand object</param>
+    /// <param name="parametersNames">An array of parameter names to pass to the SqlCommand object</param>
+    /// <param name="parametersTypes">An array of parameter types to pass to the SqlCommand object</param>
+    /// <param name="parametersValues">An array of parameter values to pass to the SqlCommand object</param>
     /// <returns></returns>
     public static object ExecuteScalar(SqlConnection connection, string procedureName, string[] parametersNames, SqlDbType[] parametersTypes, object[] parametersValues)
     {
@@ -140,9 +140,9 @@ public class DbUtilsDal
     /// </summary>
     /// <param name="connection">SqlConnection to connect to</param>
     /// <param name="procedureName">Sql stored procedure name</param>
-    /// <param name="parametersNames">An array of paraneter names to pass to the SqlCommand object</param>
-    /// <param name="parametersTypes">An array of paraneter types to pass to the SqlCommand object</param>
-    /// <param name="parametersValues">An array of paraneter values to pass to the SqlCommand object</param>
+    /// <param name="parametersNames">An array of parameter names to pass to the SqlCommand object</param>
+    /// <param name="parametersTypes">An array of parameter types to pass to the SqlCommand object</param>
+    /// <param name="parametersValues">An array of parameter values to pass to the SqlCommand object</param>
     /// <returns></returns>
     public static int ExecuteNonQuery(SqlConnection connection, string procedureName, string[] parametersNames, SqlDbType[] parametersTypes, object[] parametersValues)
     {
@@ -175,9 +175,9 @@ public class DbUtilsDal
     /// </summary>
     /// <param name="connection">SqlConnection to connect to</param>
     /// <param name="procedureName">Sql stored procedure name</param>
-    /// <param name="parametersNames">An array of paraneter names to pass to the SqlCommand object</param>
-    /// <param name="parametersTypes">An array of paraneter types to pass to the SqlCommand object</param>
-    /// <param name="parametersValues">An array of paraneter values to pass to the SqlCommand object</param>
+    /// <param name="parametersNames">An array of parameter names to pass to the SqlCommand object</param>
+    /// <param name="parametersTypes">An array of parameter types to pass to the SqlCommand object</param>
+    /// <param name="parametersValues">An array of parameter values to pass to the SqlCommand object</param>
     /// <returns></returns>
     public static DataTable ExecuteDataTable(SqlConnection connection, string procedureName, string[] parametersNames, SqlDbType[] parametersTypes, object[] parametersValues)
     {
@@ -202,9 +202,9 @@ public class DbUtilsDal
     /// </summary>
     /// <param name="connection">SqlConnection to connect to</param>
     /// <param name="procedureName">Sql stored procedure name</param>
-    /// <param name="parametersNames">An array of paraneter names to pass to the SqlCommand object</param>
-    /// <param name="parametersTypes">An array of paraneter types to pass to the SqlCommand object</param>
-    /// <param name="parametersValues">An array of paraneter values to pass to the SqlCommand object</param>
+    /// <param name="parametersNames">An array of parameter names to pass to the SqlCommand object</param>
+    /// <param name="parametersTypes">An array of parameter types to pass to the SqlCommand object</param>
+    /// <param name="parametersValues">An array of parameter values to pass to the SqlCommand object</param>
     /// <returns></returns>
     public static DataRow ExecuteDataRow(SqlConnection connection, string procedureName, string[] parametersNames, SqlDbType[] parametersTypes, object[] parametersValues)
     {

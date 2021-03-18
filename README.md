@@ -1,6 +1,6 @@
 # .NET Spiders
 
-Built in the years 2012-2016. Spiders (crawlers) to fetch email addresses from different sources, API's, crawling web sites, etc.
+Built in the years 2012-2016. Spiders (crawlers) to fetch email addresses from different sources, API's, crawling websites, etc.
 
 ## Getting Started
 
@@ -36,4 +36,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This application has UNLICENSED License.
+This application has an UNLICENSED License.
