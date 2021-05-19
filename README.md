@@ -8,15 +8,15 @@ Clone the project to your computer.
 
 ### Prerequisites
 
-You'll need to install .Net and SQL Stored Procedure (Recommended to work with SQL Management Studio).
+You'll need to install .NET and SQL stored procedure (Recommended to work with SQL management studio).
 
 ## Built With
 
 * [ASP.NET Web-Forms](https://www.asp.net/web-forms) - The web framework used.
 * [Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/create-a-stored-procedure?view=sql-server-2017) - The component of .NET Framework.
 * [SQL](https://azure.microsoft.com/en-us/services/sql-database/) - The database used.
-* [LINQ-TO-SQL](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/linq/) - The component of .NET Framework.
-* [GIT](https://git-scm.com/) - Source Management.
+* [LINQ-TO-SQL](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/linq/) - The component of .NET framework.
+* [GIT](https://git-scm.com/) - Source management.
 
 ## Contributing
 
