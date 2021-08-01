@@ -12,11 +12,11 @@ You'll need to install .NET and SQL stored procedure (Recommended to work with S
 
 ## Built With
 
-* [ASP.NET Web-Forms](https://www.asp.net/web-forms) - The web framework used.
+* [Asp.NET Web-Forms](https://www.asp.net/web-forms) - The web framework used.
 * [Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/create-a-stored-procedure?view=sql-server-2017) - The component of .NET Framework.
-* [SQL](https://azure.microsoft.com/en-us/services/sql-database/) - The database used.
-* [LINQ-TO-SQL](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/linq/) - The component of .NET framework.
-* [GIT](https://git-scm.com/) - Source management.
+* [Sql](https://azure.microsoft.com/en-us/services/sql-database/) - The database used.
+* [Linq-To-Sql](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/linq/) - The component of .NET framework.
+* [Git](https://git-scm.com/) - Source management.
 
 ## Contributing
 
@@ -24,7 +24,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+We use [SemVer](http://semver.org) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Author
 
@@ -36,4 +36,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This application has an UNLICENSED License.
+This application has an UNLICENSED license.
