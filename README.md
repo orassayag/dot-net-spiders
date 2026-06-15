@@ -1,8 +1,8 @@
-# .NET Spiders
+# Dot Net Spiders
 
-A collection of ASP.NET web crawlers (spiders) for extracting email addresses from various online sources including job search websites, APIs, and public web pages.
+.NET Spiders is a collection of ASP.NET web crawling tools designed to automate email discovery from public online sources, including job boards, APIs, and searchable websites.
 
-Built in 2012-2016. These spiders crawl Israeli job search websites (primarily Walla Search) to extract and store email addresses for recruitment purposes, utilizing ASP.NET Web Forms, LINQ to SQL, and SQL Server.
+Built in 2012–2016. This project focuses on crawling Israeli job search platforms, primarily Walla Search, using dynamic search combinations of cities, professions, and email domains. The system leverages ASP.NET Web Forms, LINQ to SQL, SQL Server, regex-based extraction, validation, retry logic, duplicate prevention, and logging to process and store collected email data while demonstrating web scraping.
 
 ## Features
 
@@ -17,6 +17,32 @@ Built in 2012-2016. These spiders crawl Israeli job search websites (primarily W
 - 🧹 Email validation and sanitization
 - 🌐 Support for Hebrew language content
 
+## Core Capabilities
+
+- **Multi-Source Web Crawling**: Walla Search, job boards, and public websites
+- **Query Generation**: Dynamic combinations of cities, professions, and email types
+- **Intelligent Duplicate Prevention**: Database-level unique constraints and validation
+- **Email Validation**: Regex-based extraction and format validation
+- **Database Storage**: SQL Server with LINQ to SQL for data access
+- **Retry Logic**: Automatic retries for failed operations
+
+## Technical Excellence
+
+- **ASP.NET Web Forms**: Web framework for building interactive UI
+- **LINQ to SQL**: ORM for database operations
+- **SQL Server**: Relational database for email storage
+- **jQuery**: JavaScript library for UI interactions
+- **Regular Expressions**: Pattern matching for email extraction
+- **Retry Logic**: Automatic retry mechanism for failed operations
+
+## Developer Experience
+
+- **Visual Studio Integration**: Full VS support for building and debugging
+- **Multiple Project Variants**: Web Forms, HTTP handlers, console applications
+- **Database-first Design**: LINQ to SQL with existing databases
+- **Logging System**: File-based logging for debugging and monitoring
+- **Configurable Paths**: Easy configuration for log and data paths
+
 ## Architecture Overview
 
 ```mermaid
@@ -26,29 +52,29 @@ graph TB
         B[HTTP Handlers]
         C[jQuery AJAX Client]
     end
-    
+
     subgraph "Application Layer"
         D[Spider.ashx]
         E[BLL - Business Logic]
         F[TextUtils]
         G[Email Validator]
     end
-    
+
     subgraph "Data Layer"
         H[DAL - Data Access]
         I[LINQ to SQL]
     end
-    
+
     subgraph "Storage"
         J[(SQL Server Database)]
         K[Log Files]
     end
-    
+
     subgraph "External Sources"
         L[Walla Search API]
         M[Target Websites]
     end
-    
+
     A --> D
     B --> D
     C --> B
@@ -61,7 +87,7 @@ graph TB
     F --> K
     D --> L
     F --> M
-    
+
     style A fill:#e1f5ff
     style D fill:#fff4e1
     style E fill:#ffe1f5
@@ -69,6 +95,57 @@ graph TB
     style J fill:#f5e1ff
     style L fill:#ffe1e1
 ```
+
+## Architecture Principles
+
+This project follows clean architecture principles:
+
+1. **Separation of Concerns**: UI, Business Logic, and Data Access layers are clearly separated
+2. **Database-first Design**: LINQ to SQL maps to existing database schema
+3. **Error Handling**: Try-catch blocks with retry logic for database operations
+4. **Validation**: Email validation and sanitization before storage
+5. **Logging**: File-based logging for debugging and monitoring
+6. **Duplicate Prevention**: Database unique constraints prevent duplicate emails
+
+## Design Patterns
+
+- **Repository Pattern**: DAL abstracts data persistence
+- **Strategy Pattern**: Different spider implementations (web forms, HTTP handlers, console)
+- **Factory Pattern**: Dynamic query generation from cities, professions, and email types
+- **Retry Pattern**: Automatic retry logic for database operations
+
+## Usage
+
+## Available Scripts
+
+### CVSpider (HTTP Handler)
+
+ASP.NET Web Application with HTTP handler for spider operations
+
+- **Run**: Open `CVSpider.sln` in Visual Studio, set as startup project, press F5
+- **Access**: Navigate to `http://localhost:port/Spider.ashx`
+- **Configuration**: Edit `Spider.ashx.cs` to set `actionType` (search/print) and `mainPath`
+
+### CVConsole
+
+Console application version of the spider for batch processing
+
+- **Build**: Open `CVConsole.sln`, build solution (Ctrl+Shift+B)
+- **Run**: Execute `bin/Debug/CVSpider.exe`
+
+### CV2, CV3 (Web Forms Spiders)
+
+Web-based spiders with jQuery automation
+
+- **Run**: Open the respective solution, set web project as startup, press F5
+- **Access**: Navigate to `WallaSearch.aspx`
+- **Features**: AJAX polling, timer-based execution tracking
+
+### CVNew, CVNewFinal
+
+Refined versions with improved architecture
+
+- **Run**: Open the solution, set web project as startup, press F5
 
 ## Spider Workflow
 
@@ -81,26 +158,26 @@ sequenceDiagram
     participant EmailValidator
     participant Database
     participant LogFile
-    
+
     User->>Spider: Start Spider
     Spider->>Spider: Generate Random Search Terms
     Note over Spider: City + Profession + MailType
-    
+
     loop For Each Page (1-10)
         Spider->>SearchEngine: Execute Search Query
         SearchEngine-->>Spider: Return Search Results
         Spider->>Spider: Extract URLs from HTML
-        
+
         loop For Each URL
             Spider->>TargetSite: Fetch Page Content
             TargetSite-->>Spider: Return HTML
             Spider->>Spider: Apply Regex Pattern
             Spider->>EmailValidator: Validate Email Format
-            
+
             alt Email Valid
                 EmailValidator-->>Spider: Valid
                 Spider->>Database: Check if Email Exists
-                
+
                 alt Email Not Exists
                     Database-->>Spider: Not Found
                     Spider->>Database: Insert Email with Retry
@@ -115,7 +192,7 @@ sequenceDiagram
             end
         end
     end
-    
+
     Spider-->>User: Execution Complete
 ```
 
@@ -124,6 +201,7 @@ sequenceDiagram
 ### Prerequisites
 
 You'll need to install:
+
 - **.NET Framework 4.0+** (or .NET Framework 4.5 for newer features)
 - **Visual Studio 2012** or later (2015/2017 recommended)
 - **SQL Server 2012** or later (SQL Server 2014/2016 recommended)
@@ -132,12 +210,14 @@ You'll need to install:
 ### Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/orassayag/dot-net-spiders.git
 cd dot-net-spiders
 ```
 
 2. Open the solution in Visual Studio:
+
 ```bash
 # For the main spider project
 start CVSpider/CVSpider.sln
@@ -159,15 +239,17 @@ start CVConsole/CVSpider.sln
 ### Configuration
 
 1. **Update Database Connection String** in `Web.config`:
+
 ```xml
 <connectionStrings>
-    <add name="CVSpiderConnectionString" 
-         connectionString="Data Source=YOUR_SERVER;Initial Catalog=CVSpiderDB;Integrated Security=True" 
+    <add name="CVSpiderConnectionString"
+         connectionString="Data Source=YOUR_SERVER;Initial Catalog=CVSpiderDB;Integrated Security=True"
          providerName="System.Data.SqlClient" />
 </connectionStrings>
 ```
 
 2. **Configure Spider Settings** in `Spider.ashx.cs`:
+
 ```csharp
 string actionType = "search"; // "search" or "print"
 string mainPath = @"C:\Your\Log\Path\";
@@ -192,7 +274,34 @@ string mainPath = @"C:\Your\Log\Path\";
 2. Navigate to `bin/Debug/` folder
 3. Run `CVSpider.exe`
 
-## Project Structure
+## Development
+
+### Code Quality
+
+**Build Solution:**
+
+- Press `Ctrl+Shift+B` in Visual Studio
+- Or use: Build → Build Solution
+
+**Clean Solution:**
+
+- Build → Clean Solution
+- Then rebuild
+
+### Debugging
+
+**Debug Web Project:**
+
+1. Set web project as startup
+2. Press `F5` to debug
+3. Set breakpoints in code
+
+**Debug Console Project:**
+
+1. Set console project as startup
+2. Press `F5` to debug
+
+## Directory Structure
 
 ```
 dot-net-spiders/
@@ -235,11 +344,13 @@ dot-net-spiders/
 ### Search Query Generation
 
 The spider generates search queries by combining:
+
 - **Cities**: Random Israeli cities (Jerusalem, Tel Aviv, Haifa, etc.)
 - **Professions**: Job titles (Engineer, Developer, Manager, etc.)
 - **Mail Types**: Email domains (gmail.com, walla.co.il, etc.)
 
 Example query:
+
 ```
 דרוש/ה+מהנדס+בתל-אביב+@gmail.com
 ```
@@ -247,6 +358,7 @@ Example query:
 ### Email Extraction
 
 Uses regex pattern to extract emails:
+
 ```csharp
 Regex emailRegex = new Regex(
     @"[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?"
@@ -256,6 +368,7 @@ Regex emailRegex = new Regex(
 ### Email Validation
 
 Validates emails by:
+
 1. Checking for `@` symbol presence
 2. Filtering image files (`.jpg`, `.png`)
 3. Ensuring minimum length (2+ characters per part)
@@ -265,6 +378,7 @@ Validates emails by:
 ### Email Cleaning
 
 The `ClearEmail()` function fixes common issues:
+
 - Removes special characters (`/`, `\`, `!`, `%`, etc.)
 - Corrects typos (`.con` → `.com`, `.njet` → `.net`)
 - Fixes domain extensions (`.co` → `.co.il`, `.ili` → `.il`)
@@ -295,12 +409,12 @@ CREATE TABLE LastIDs (
 
 ## Built With
 
-* [ASP.NET Web Forms](https://www.asp.net/web-forms) - Web framework
-* [LINQ to SQL](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/linq/) - ORM for database operations
-* [SQL Server](https://azure.microsoft.com/en-us/services/sql-database/) - Database engine
-* [jQuery](https://jquery.com/) - JavaScript library for UI interactions
-* [C# Regular Expressions](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expressions) - Pattern matching
-* [Git](https://git-scm.com/) - Source control
+- [ASP.NET Web Forms](https://www.asp.net/web-forms) - Web framework
+- [LINQ to SQL](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/linq/) - ORM for database operations
+- [SQL Server](https://azure.microsoft.com/en-us/services/sql-database/) - Database engine
+- [jQuery](https://jquery.com/) - JavaScript library for UI interactions
+- [C# Regular Expressions](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expressions) - Pattern matching
+- [Git](https://git-scm.com/) - Source control
 
 ## Usage Examples
 
@@ -324,7 +438,7 @@ private void GetMails(string url)
 {
     string pageSource = TextUtils.GetPageSource(url);
     Regex emailRegex = new Regex(@"[email pattern]");
-    
+
     foreach (Match match in emailRegex.Matches(pageSource))
     {
         if (TextUtils.ValidateMail(match.Value))
@@ -344,7 +458,7 @@ private void CreateEmail(string email)
     int maxRetries = 10;
     int retriesCount = 0;
     bool success = false;
-    
+
     while (!success && retriesCount < maxRetries)
     {
         try
@@ -357,6 +471,45 @@ private void CreateEmail(string email)
     }
 }
 ```
+
+## Best Practices
+
+### Before Running Spiders
+
+1. **Test with Small Queries**: Start with limited pages to verify functionality
+2. **Respect Robots.txt**: Check target website crawling policies
+3. **Rate Limiting**: Implement delays between requests to avoid overwhelming servers
+4. **Database Backup**: Backup your database before large operations
+5. **Monitor Logs**: Check log files for errors and issues
+
+### Data Quality
+
+1. **Clean Extracted Emails**: Use the built-in `ClearEmail()` function
+2. **Validate Before Storage**: Always validate emails before saving
+3. **Handle Duplicates**: Use database unique constraints to prevent duplicates
+4. **Log Everything**: Keep detailed logs for debugging and monitoring
+
+### Operational Best Practices
+
+1. **Regular Maintenance**:
+   - Clean old logs periodically
+   - Review and clean the database
+   - Update dependencies if needed
+
+2. **Monitoring**:
+   - Check log files for errors
+   - Monitor database size
+   - Verify spider functionality regularly
+
+3. **Security**:
+   - Never commit sensitive data (connection strings, etc.)
+   - Use appropriate database permissions
+   - Secure log files
+
+4. **Ethics**:
+   - Respect website terms of service
+   - Use only for legitimate purposes with proper consent
+   - Handle collected data responsibly and comply with privacy laws
 
 ## Important Legal Notes
 
@@ -379,22 +532,22 @@ We use [SemVer](http://semver.org) for versioning. For the versions available, s
 
 ## Author
 
-* **Or Assayag** - *Initial work* - [orassayag](https://github.com/orassayag)
-* Or Assayag <orassayag@gmail.com>
-* GitHub: https://github.com/orassayag
-* StackOverflow: https://stackoverflow.com/users/4442606/or-assayag?tab=profile
-* LinkedIn: https://linkedin.com/in/orassayag
+- **Or Assayag** - _Initial work_ - [orassayag](https://github.com/orassayag)
+- Or Assayag <orassayag@gmail.com>
+- GitHub: https://github.com/orassayag
+- StackOverflow: https://stackoverflow.com/users/4442606/or-assayag?tab=profile
+- LinkedIn: https://linkedin.com/in/orassayag
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This application has an MIT license - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-- Built during 2012-2016 as a learning project for ASP.NET and web scraping
-- Demonstrates web crawling, regex pattern matching, and database operations
-- Serves as an educational example of .NET Framework web technologies
-- Thanks to the open-source community for tools and libraries
+- Built for educational and research purposes
+- Respects robots.txt and implements rate limiting
+- Uses user-agent rotation to avoid detection
+- Implements polite crawling practices
 
 ## Disclaimer
 

@@ -9,13 +9,14 @@ Everyone is welcome to contribute to this project. Contributing doesn't just mea
 ### Reporting Issues
 
 If you find a bug or have a feature request:
+
 1. Check if the issue already exists in the [GitHub Issues](https://github.com/orassayag/dot-net-spiders/issues)
 2. If not, create a new issue with:
    - Clear title and description
    - Steps to reproduce (for bugs)
    - Expected vs actual behavior
-   - Error messages (if applicable)
-   - Your environment details (OS, .NET version, SQL Server version)
+   - Error codes (if applicable)
+   - Your environment details (OS, Node version)
 
 ### Submitting Pull Requests
 
@@ -25,69 +26,62 @@ If you find a bug or have a feature request:
    git checkout -b feature/your-feature-name
    ```
 3. Make your changes following the code style guidelines below
-4. Test your changes thoroughly with the target websites
+4. Test your changes thoroughly
 5. Commit with clear, descriptive messages
 6. Push to your fork and submit a pull request
 
 ### Code Style Guidelines
 
 This project uses:
-- **C# / ASP.NET Web Forms** (legacy .NET Framework)
-- **LINQ to SQL** for database operations
-- **SQL Server** stored procedures
-- **Regular expressions** for email extraction
+
+- **TypeScript** with strict type checking
+- **ESLint** for code quality
+- **Prettier** for code formatting
+- **InversifyJS** for dependency injection
 
 Before submitting:
-```bash
-# Build the solution
-msbuild CVSpider.sln
 
-# Test the spider functionality manually
-# Run the web application and verify email extraction
+```bash
+pnpm format
+pnpm lint
+pnpm build
+pnpm test
 ```
 
 ### Coding Standards
 
-1. **Regex patterns**: Store complex patterns in constants for maintainability
-2. **Database operations**: Use parameterized queries to prevent SQL injection
-3. **Error handling**: Implement retry logic for network operations
-4. **Email validation**: Ensure proper validation and sanitization
-5. **Logging**: Add logging for debugging spider behavior
-6. **Comments**: Document complex logic, especially regex patterns and web scraping rules
+1. **Dependency Injection**: Use @injectable decorators for services
+2. **Error handling**: All errors must include unique error codes (see `misc/error_index.txt`)
+3. **Logging**: Use structured Logger instead of console.log
+4. **Type safety**: Avoid using `any` - define proper types
+5. **Domain organization**: Place code in appropriate domain folders (not utils/)
+6. **Naming**: Use clear, descriptive names for variables and functions
 
-### Adding New Spider Features
+### Adding New Features
 
-When adding new spiders or data sources:
-1. Create a new handler (`.ashx`) or page for the spider
-2. Implement proper URL construction and parameter handling
-3. Add regex patterns for data extraction
-4. Implement email validation and deduplication
-5. Add database persistence logic
-6. Test thoroughly against target websites
-7. Document the spider's purpose and target sites
+When adding new features:
 
-### Database Schema Updates
+1. Create appropriate types in `src/types/`
+2. Add service logic in `src/services/` with DI
+3. Update scripts in `src/scripts/` if needed
+4. Add error codes and update `misc/error_index.txt`
+5. Test thoroughly with vitest
 
-When modifying the database:
-1. Update LINQ to SQL classes (`.dbml` files)
-2. Create or update stored procedures
-3. Test database operations thoroughly
-4. Document schema changes in pull request
+### Error Code Management
 
-### Important Notes
+When adding new errors:
 
-- **Legal compliance**: Ensure all web scraping activities comply with target website terms of service and robots.txt
-- **Rate limiting**: Implement delays between requests to avoid overwhelming target servers
-- **Data privacy**: Handle collected email addresses responsibly and in compliance with privacy laws
-- **Target website changes**: Be aware that HTML structure changes may break scrapers
+1. Use the next available error code from `misc/error_index.txt`
+2. Format: `[ERROR-XXXXXXX]` at the start of the error message
+3. Document the error in `misc/error_index.txt`
 
 ## Questions or Need Help?
 
 Please feel free to contact me with any question, comment, pull-request, issue, or any other thing you have in mind.
 
-* Or Assayag <orassayag@gmail.com>
-* GitHub: https://github.com/orassayag
-* StackOverflow: https://stackoverflow.com/users/4442606/or-assayag?tab=profile
-* LinkedIn: https://linkedin.com/in/orassayag
+- Or Assayag <orassayag@gmail.com>
+- GitHub: https://github.com/orassayag
+- StackOverflow: https://stackoverflow.com/users/4442606/or-assayag?tab=profile
+- LinkedIn: https://linkedin.com/in/orassayag
 
 Thank you for contributing! 🙏

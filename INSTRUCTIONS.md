@@ -1,17 +1,63 @@
-# Instructions
+# Setup and Usage Instructions
 
-## Setup Instructions
+## Table of Contents
 
-1. Open the project in Visual Studio (2012 or later recommended)
-2. Restore NuGet packages if needed
-3. Configure SQL Server connection strings in `Web.config` files
-4. Set up the database schema using the provided stored procedures
+1. [Prerequisites](#prerequisites)
+2. [Initial Setup](#initial-setup)
+3. [Install Dependencies](#install-dependencies)
+4. [Database Configuration](#database-configuration)
+5. [Available Commands](#available-commands)
+6. [Running Scripts](#running-scripts)
+7. [Project Structure](#project-structure)
+8. [Email Extraction Process](#email-extraction-process)
+9. [Output](#output)
+10. [Troubleshooting](#troubleshooting)
+11. [Best Practices](#best-practices)
+12. [Extending the Application](#extending-the-application)
+13. [Documentation](#documentation)
+14. [External Resources](#external-resources)
+
+## Prerequisites
+
+### System Requirements
+
+- **.NET Framework**: Version 4.0 or higher (4.5+ recommended)
+- **IDE**: Visual Studio 2012 or later (2015/2017 recommended)
+- **Database**: SQL Server 2012 or later (SQL Server 2014/2016 recommended)
+- **Database Management**: SQL Server Management Studio (SSMS)
+- **Operating System**: Windows (7 or later)
+
+### Knowledge Prerequisites
+
+- Basic understanding of ASP.NET Web Forms
+- Familiarity with SQL Server and database management
+- Understanding of C# and .NET Framework
+- Basic knowledge of regular expressions (helpful but not required)
+
+## Initial Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/orassayag/dot-net-spiders.git
+cd dot-net-spiders
+```
+
+2. Open the project in Visual Studio (2012 or later recommended)
+
+## Install Dependencies
+
+1. Restore NuGet packages (if needed):
+   - Right-click on the solution in Visual Studio
+   - Select "Restore NuGet Packages"
+
+2. Ensure .NET Framework 4.0+ is installed on your system
 
 ## Database Configuration
 
 1. Create a SQL Server database for the project
 2. Update connection strings in `Web.config` files across different spider projects
-3. Run the database schema creation scripts (if available)
+3. Run the database schema creation script (see below)
 4. Ensure proper permissions for the application to read/write to the database
 
 ### Database Setup Example
@@ -31,6 +77,18 @@ CREATE TABLE CVMails (
     DateCreated DATETIME DEFAULT GETDATE()
 );
 GO
+```
+
+### Update Connection Strings
+
+In each project's `Web.config` or `App.config`:
+
+```xml
+<connectionStrings>
+    <add name="CVSpiderConnectionString"
+         connectionString="Data Source=YOUR_SERVER;Initial Catalog=CVSpiderDB;Integrated Security=True"
+         providerName="System.Data.SqlClient" />
+</connectionStrings>
 ```
 
 ## Project Structure
@@ -63,7 +121,28 @@ Refined versions with improved architecture
 ### Spider
 Standalone spider implementation
 
-## Running the Spiders
+## Available Commands
+
+### Development Commands
+
+**Build Solution:**
+- Press `Ctrl+Shift+B` in Visual Studio
+- Or use: Build → Build Solution
+
+**Clean Solution:**
+- Build → Clean Solution
+- Then rebuild
+
+**Debug Web Project:**
+1. Set web project as startup
+2. Press `F5` to debug
+3. Set breakpoints in code
+
+**Debug Console Project:**
+1. Set console project as startup
+2. Press `F5` to debug
+
+## Running Scripts
 
 ### Web-Based Spiders (CV2, CV3, etc.)
 
@@ -183,32 +262,6 @@ Spider activity is logged to text files:
 - `mails1.txt`: Backup log file
 - Date-stamped log files in the `Logs/` directory
 
-## Important Notes
-
-### Legal and Ethical Considerations
-
-- **Respect robots.txt**: Check target website robots.txt files before scraping
-- **Terms of Service**: Ensure compliance with website terms of service
-- **Rate Limiting**: Implement delays between requests to avoid server overload
-- **Data Privacy**: Handle collected data responsibly and in compliance with privacy laws (GDPR, CCPA)
-- **Consent**: Only use collected emails for legitimate purposes with proper consent
-
-### Technical Considerations
-
-- The spiders target Hebrew language job search websites (Walla, etc.)
-- HTML structure changes on target sites may break the scrapers
-- Regular expression patterns may need updates as website formats change
-- Database connection pooling is handled by .NET Framework
-- UTF-8 encoding is required for proper Hebrew text handling
-
-### Maintenance
-
-- Regularly test spider functionality against target websites
-- Update regex patterns when website structures change
-- Monitor log files for errors and issues
-- Clean up database periodically to remove invalid emails
-- Review and update email validation rules as needed
-
 ## Troubleshooting
 
 ### Common Issues
@@ -235,10 +288,115 @@ Spider activity is logged to text files:
    - Verify target website is accessible
    - Check for IP blocking or rate limiting
 
+## Best Practices
+
+### Before Running Spiders
+
+1. **Test with Small Queries**: Start with limited pages to verify functionality
+2. **Respect Robots.txt**: Check target website crawling policies
+3. **Rate Limiting**: Implement delays between requests to avoid overwhelming servers
+4. **Database Backup**: Backup your database before large operations
+5. **Monitor Logs**: Check log files for errors and issues
+
+### Data Quality
+
+1. **Clean Extracted Emails**: Use the built-in `ClearEmail()` function
+2. **Validate Before Storage**: Always validate emails before saving
+3. **Handle Duplicates**: Use database unique constraints to prevent duplicates
+4. **Log Everything**: Keep detailed logs for debugging and monitoring
+
+### Operational Best Practices
+
+1. **Regular Maintenance**:
+   - Clean old logs periodically
+   - Review and clean the database
+   - Update dependencies if needed
+
+2. **Monitoring**:
+   - Check log files for errors
+   - Monitor database size
+   - Verify spider functionality regularly
+
+3. **Security**:
+   - Never commit sensitive data (connection strings, etc.)
+   - Use appropriate database permissions
+   - Secure log files
+
+4. **Ethics**:
+   - Respect website terms of service
+   - Use only for legitimate purposes with proper consent
+   - Handle collected data responsibly and comply with privacy laws
+
+## Extending the Application
+
+### Adding New Search Terms
+
+To add new cities, professions, or email types:
+
+1. Edit the respective files in `Code/`:
+   - `Cities.cs` for new cities
+   - `Professions.cs` for new professions
+   - `MailTypes.cs` for new email types
+
+2. Rebuild the solution
+
+### Creating New Spider Variants
+
+1. Create a new project in Visual Studio
+2. Copy the relevant files from an existing spider
+3. Modify the logic as needed
+4. Update the connection string and configuration
+5. Build and test
+
+## Documentation
+
+- [README.md](README.md) - Project overview and features
+- [CONTRIBUTING.md](CONTRIBUTING.md) - Contribution guidelines
+- [CHANGELOG.md](CHANGELOG.md) - Version history
+
+## External Resources
+
+- [ASP.NET Web Forms Documentation](https://learn.microsoft.com/en-us/aspnet/web-forms/)
+- [LINQ to SQL Documentation](https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/sql/linq/)
+- [SQL Server Documentation](https://learn.microsoft.com/en-us/sql/)
+- [C# Regular Expressions](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expressions)
+- [jQuery Documentation](https://jquery.com/)
+
+## Important Notes
+
+### Legal and Ethical Considerations
+
+- **Respect robots.txt**: Check target website robots.txt files before scraping
+- **Terms of Service**: Ensure compliance with website terms of service
+- **Rate Limiting**: Implement delays between requests to avoid server overload
+- **Data Privacy**: Handle collected data responsibly and in compliance with privacy laws (GDPR, CCPA)
+- **Consent**: Only use collected emails for legitimate purposes with proper consent
+
+### Technical Considerations
+
+- The spiders target Hebrew language job search websites (Walla, etc.)
+- HTML structure changes on target sites may break the scrapers
+- Regular expression patterns may need updates as website formats change
+- Database connection pooling is handled by .NET Framework
+- UTF-8 encoding is required for proper Hebrew text handling
+
+### Maintenance
+
+- Regularly test spider functionality against target websites
+- Update regex patterns when website structures change
+- Monitor log files for errors and issues
+- Clean up database periodically to remove invalid emails
+- Review and update email validation rules as needed
+
 ## Author
 
-* **Or Assayag** - *Initial work* - [orassayag](https://github.com/orassayag)
-* Or Assayag <orassayag@gmail.com>
-* GitHub: https://github.com/orassayag
-* StackOverflow: https://stackoverflow.com/users/4442606/or-assayag?tab=profile
-* LinkedIn: https://linkedin.com/in/orassayag
+- **Or Assayag** - _Initial work_ - [orassayag](https://github.com/orassayag)
+- Or Assayag <orassayag@gmail.com>
+- GitHub: https://github.com/orassayag
+- StackOverflow: https://stackoverflow.com/users/4442606/or-assayag?tab=profile
+- LinkedIn: https://linkedin.com/in/orassayag
+
+---
+
+**Last Updated**: June 2026
+**Version**: 1.0.0
